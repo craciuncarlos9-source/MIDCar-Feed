@@ -1,5 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-10-14T16:46:50+00:00" concesionario="MID Car Soluciones S.L." total="88">
+<stock generado="2026-10-14T20:28:37+00:00" concesionario="MID Car Soluciones S.L." total="90">
+  <vehiculo>
+    <id>1410171116805</id>
+    <matricula>3051LWX</matricula>
+    <bastidor/>
+    <marca>Peugeot</marca>
+    <modelo>208</modelo>
+    <version>Peugeot 208 1.5 BlueHDi 100Cv 5Puertas Etiqueta C IVA y Garantía Incl Nacional 1Dueño</version>
+    <anio>2022</anio>
+    <mes_matriculacion>3</mes_matriculacion>
+    <km>51986</km>
+    <precio>14400</precio>
+    <precio_anterior>0</precio_anterior>
+    <iva_deducible>true</iva_deducible>
+    <combustible>Diesel</combustible>
+    <cambio>Manual</cambio>
+    <potencia_cv>100</potencia_cv>
+    <puertas>5</puertas>
+    <plazas>5</plazas>
+    <color>Blanco</color>
+    <etiqueta_dgt>C</etiqueta_dgt>
+    <garantia_meses>12</garantia_meses>
+    <cuota_mes>283</cuota_mes>
+    <meses_financiacion>72</meses_financiacion>
+    <reservado>false</reservado>
+    <concesionario>torrejon-de-ardoz</concesionario>
+    <url>https://www.midcar.net/peugeot-208-15-bluehdi-100cv-5puertas-etiqueta-c-iva-y-garantia-incl-nacional-1dueno-2022-1410171116805</url>
+    <equipamiento>
+      <item>Entrega inmediata</item>
+      <item>Vehículo nacional</item>
+      <item>Kilómetros certificados</item>
+      <item>Historial de mantenimiento</item>
+      <item>Vehículo revisado</item>
+      <item>Único propietario</item>
+      <item>Garantia 1 año</item>
+      <item>Informe CARFAX disponible</item>
+    </equipamiento>
+    <descripcion>Peugeot 208 1.5 BlueHDi 100Cv 5Puertas, 6 Velocidades, del Año 17/03/2022, Etiqueta Medioambiental C con 51.000 kilómetros certificados por escrito e historial de mantenimiento al día.
+
+Equipamiento:
+
+- Pantalla táctil
+- Aire Acondicionado
+- Dirección Asistida
+- Elevalunas eléctricas
+- Radio Cd Mp3 Bluetooth
+- Control de velocidad,
+- Luces automáticas
+- Limitador de velocidad
+- Retrovisores eléctricos
+- Cierre centralizado con mando
+- Volante multifunción
+- Asistente de carríl
+- Llantas aleacion
+
+
+Vehículo de ÚNICO PROPIETARIO con procedencia NACIONAL
+
+Garantía mecánica de 12 meses e IVA incluido,
+
+Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
+
+Tasamos su vehículo como parte de pago.
+
+Horario de Apertura: Lunes – Viernes: 9:00h a 14:00h – 15:30h a 20:30h
+Sábado Cerrado
+Domingo: 11:00h – 14:00h
+
+
+
+Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.</descripcion>
+    <fotos>
+      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/1410171116805/01-14102026171116806-1500px.jpg</foto>
+      <foto orden="2">https://midcar.azureedge.net/vehiculos/1410171116805/02-14102026171117058-1500px.jpg</foto>
+      <foto orden="3">https://midcar.azureedge.net/vehiculos/1410171116805/03-14102026171117105-1500px.jpg</foto>
+      <foto orden="4">https://midcar.azureedge.net/vehiculos/1410171116805/04-14102026171117145-1500px.jpg</foto>
+      <foto orden="5">https://midcar.azureedge.net/vehiculos/1410171116805/05-14102026171117180-1500px.JPG</foto>
+      <foto orden="6">https://midcar.azureedge.net/vehiculos/1410171116805/06-14102026171117213-1500px.JPG</foto>
+      <foto orden="7">https://midcar.azureedge.net/vehiculos/1410171116805/07-14102026171117249-1500px.JPG</foto>
+      <foto orden="8">https://midcar.azureedge.net/vehiculos/1410171116805/08-14102026171117282-1500px.JPG</foto>
+      <foto orden="9">https://midcar.azureedge.net/vehiculos/1410171116805/09-14102026171117327-1500px.JPG</foto>
+      <foto orden="10">https://midcar.azureedge.net/vehiculos/1410171116805/010-14102026171117382-1500px.JPG</foto>
+    </fotos>
+  </vehiculo>
+  <vehiculo>
+    <id>1410165839302</id>
+    <matricula>5502LZP</matricula>
+    <bastidor/>
+    <marca>Toyota</marca>
+    <modelo>Proace City</modelo>
+    <version>Toyota Proace City 1.5 TD VX L1 5 Puertas IVA y Garantía Inc Etiqueta C Monovolumen</version>
+    <anio>2022</anio>
+    <mes_matriculacion>8</mes_matriculacion>
+    <km>135920</km>
+    <precio>16950</precio>
+    <precio_anterior>0</precio_anterior>
+    <iva_deducible>true</iva_deducible>
+    <combustible>Diesel</combustible>
+    <cambio>Manual</cambio>
+    <potencia_cv>100</potencia_cv>
+    <puertas>5</puertas>
+    <plazas>5</plazas>
+    <color>Blanco</color>
+    <etiqueta_dgt>C</etiqueta_dgt>
+    <garantia_meses>12</garantia_meses>
+    <cuota_mes>333</cuota_mes>
+    <meses_financiacion>72</meses_financiacion>
+    <reservado>false</reservado>
+    <concesionario>torrejon-de-ardoz</concesionario>
+    <url>https://www.midcar.net/toyota-proace-city-15-td-vx-l1--5-puertas-iva-y-garantia-inc-etiqueta-c-monovolumen-2022-1410165839302</url>
+    <equipamiento>
+      <item>Entrega inmediata</item>
+      <item>Vehículo nacional</item>
+      <item>Kilómetros certificados</item>
+      <item>Historial de mantenimiento</item>
+      <item>Vehículo revisado</item>
+      <item>Único propietario</item>
+      <item>Garantia 1 año</item>
+      <item>Informe CARFAX disponible</item>
+    </equipamiento>
+    <descripcion>Toyota Proace City 1.5 TD VX L1 5 Puertas matriculada como turismo en junio de 22/08/2022 es la aliada ideal tanto para el trabajo como para el día a día. Su motor diésel de 100 CV ofrece la combinación perfecta de rendimiento, eficiencia y fiabilidad, mientras que su diseño versátil y su equipamiento completo garantizan que cada trayecto sea cómodo y seguro.
+
+Con un único propietario, historial de mantenimiento certificado y procedencia nacional, esta Toyota es sinónimo de tranquilidad y confianza en tu compra.
+
+Distribución cambiada,
+
+Características principales:
+Motor 1.5 BlueHDi diésel de 100 CV
+Cambio manual
+Fecha de matriculación: 22/08/2022
+Kilometraje: 135920 km certificados por escrito
+Etiqueta medioambiental C
+
+Equipamiento destacado:
+Pantalla táctil
+Doble puerta lateral
+Aire acondicionado
+Airbag copiloto
+Dirección asistida
+Elevalunas eléctricos
+Radio CD MP3 con Bluetooth
+Control y limitador de velocidad
+Luces automáticas
+Retrovisores eléctricos
+Cierre centralizado con mando
+Volante multifunción
+Alumbrado de acompañamiento y acogida
+Active Safety Brake
+Alerta de atención al conductor
+Lectura de recomendación de velocidad
+Sensores de aparcamiento
+
+Ventajas incluidas:
+12 meses de garantía mecánica
+IVA incluido en el precio
+Financiación hasta el 100% sin entrada (con última nómina)
+Tasación de su vehículo como parte de pago
+
+Horario de atención:
+Lunes a Jueves: 09:00h – 14:00h / 15:30h – 20:00h
+Viernes 09:00h – 14:00h / 15:30h – 17:00h
+Sábados: Cerrado
+Domingos: 11:00 – 14:00
+
+
+
+Nota legal:
+
+Si han visto algún error, rogamos nos avisen. Este anuncio no es vinculante, puede contener errores y se muestra a título informativo, no contractual.
+
+Nuestro compromiso:
+En MID CAR no solo vendemos vehículos.
+Ofrecemos confianza, transparencia y un servicio integral, para que la compra de su Citroën sea tan satisfactoria como disfrutarla en su día a día.</descripcion>
+    <fotos>
+      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/1410165839302/01-14102026165839302-1500px.jpg</foto>
+      <foto orden="2">https://midcar.azureedge.net/vehiculos/1410165839302/02-14102026165839753-1500px.jpg</foto>
+      <foto orden="3">https://midcar.azureedge.net/vehiculos/1410165839302/03-14102026165839961-1500px.jpg</foto>
+      <foto orden="4">https://midcar.azureedge.net/vehiculos/1410165839302/04-14102026165840171-1500px.jpg</foto>
+      <foto orden="5">https://midcar.azureedge.net/vehiculos/1410165839302/05-14102026165840385-1500px.JPG</foto>
+      <foto orden="6">https://midcar.azureedge.net/vehiculos/1410165839302/06-14102026165840532-1500px.JPG</foto>
+      <foto orden="7">https://midcar.azureedge.net/vehiculos/1410165839302/07-14102026165840704-1500px.JPG</foto>
+      <foto orden="8">https://midcar.azureedge.net/vehiculos/1410165839302/08-14102026165840924-1500px.JPG</foto>
+      <foto orden="9">https://midcar.azureedge.net/vehiculos/1410165839302/09-14102026165841114-1500px.JPG</foto>
+      <foto orden="10">https://midcar.azureedge.net/vehiculos/1410165839302/010-14102026165841348-1500px.JPG</foto>
+      <foto orden="11">https://midcar.azureedge.net/vehiculos/1410165839302/011-14102026165841510-1500px.JPG</foto>
+      <foto orden="12">https://midcar.azureedge.net/vehiculos/1410165839302/012-14102026165841687-1500px.JPG</foto>
+      <foto orden="13">https://midcar.azureedge.net/vehiculos/1410165839302/013-14102026165841853-1500px.JPG</foto>
+      <foto orden="14">https://midcar.azureedge.net/vehiculos/1410165839302/014-14102026165841986-1500px.JPG</foto>
+      <foto orden="15">https://midcar.azureedge.net/vehiculos/1410165839302/015-14102026165842171-1500px.JPG</foto>
+    </fotos>
+  </vehiculo>
   <vehiculo>
     <id>1410164011869</id>
     <matricula>9340LNF</matricula>
