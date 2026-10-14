@@ -1,0 +1,43 @@
+name: Generar feed de stock
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Recuperar la cache de fichas
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: fichas-${{ github.run_id }}
+          restore-keys: fichas-
+
+      - name: Generar el feed
+        run: python extraer_stock.py
+
+      - name: Guardar el resultado
+        run: |
+          git config user.name "feed-midcar"
+          git config user.email "feed@midcar.net"
+          git add publico registro.log
+          if git diff --staged --quiet; then
+            echo "Sin cambios en el stock"
+          else
+            git commit -m "Stock actualizado: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
