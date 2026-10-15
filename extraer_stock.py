@@ -60,7 +60,8 @@ TIMEOUT = 30
 
 CARPETA_SALIDA = "publico"
 CARPETA_CACHE = ".cache"
-FICHERO_EXTRA = "datos-extra.csv"   # opcional: bastidor y garantia
+FICHERO_EXTRA = "datos-extra.csv"      # opcional: bastidor y garantia, en tabla
+FICHERO_BASTIDORES = "bastidores.txt"  # opcional: una linea por coche, "matricula bastidor"
 
 # Codigo de la tienda en Merchant Center, tal y como lo tengas dado de alta
 # en tu perfil de empresa de Google. Distingue mayusculas de minusculas.
@@ -203,23 +204,90 @@ def bajar_fichas(resumenes, usar_cache=True):
 # DATOS EXTRA (bastidor, garantia) DESDE HOJA DE CALCULO
 # --------------------------------------------------------------------------
 
+def normalizar_matricula(texto):
+    return re.sub(r"[^A-Z0-9]", "", limpiar(texto).upper())
+
+
+def cargar_bastidores_txt():
+    """
+    Lista sencilla: una linea por coche con la matricula y el bastidor,
+    separados por un espacio, una coma, un punto y coma o un tabulador.
+
+        3051LWX VF3VFAHKKLZ012345
+        5502LZP, VXKUHSH7639201923
+
+    Las lineas vacias y las que empiezan por # se ignoran.
+    Devuelve {matricula_normalizada: bastidor}.
+    """
+    if not os.path.exists(FICHERO_BASTIDORES):
+        return {}
+
+    encontrados, malas = {}, []
+    with open(FICHERO_BASTIDORES, encoding="utf-8-sig") as f:
+        for n, linea in enumerate(f, 1):
+            linea = linea.strip()
+            if not linea or linea.startswith("#"):
+                continue
+            partes = [p for p in re.split(r"[\s,;\t]+", linea) if p]
+            if len(partes) < 2:
+                malas.append((n, linea))
+                continue
+
+            # El bastidor es lo ultimo de la linea; todo lo de delante es la
+            # matricula, aunque la hayas escrito con un espacio en medio.
+            bastidor = re.sub(r"[^A-Za-z0-9]", "", partes[-1]).upper()
+            matricula = normalizar_matricula(" ".join(partes[:-1]))
+
+            if len(bastidor) < 10 or not (4 <= len(matricula) <= 10):
+                malas.append((n, linea))
+                continue
+            if len(bastidor) != 17:
+                log(f"  aviso: linea {n} de {FICHERO_BASTIDORES}: el bastidor "
+                    f"'{bastidor}' tiene {len(bastidor)} caracteres y deberian ser 17")
+            encontrados[matricula] = bastidor
+
+    for n, linea in malas:
+        log(f"  aviso: no entiendo la linea {n} de {FICHERO_BASTIDORES}: '{linea[:60]}'")
+    if encontrados:
+        log(f"  bastidores leidos de {FICHERO_BASTIDORES}: {len(encontrados)}")
+    return encontrados
+
+
 def cargar_datos_extra():
     """
-    Hoja opcional con lo que el API no trae. Cabeceras admitidas:
-        id, matricula, bastidor, garantia_meses
-    Se cruza por 'id' o, si no lo hay, por 'matricula'.
+    Lo que el API no trae. Dos formas, se pueden usar las dos a la vez:
+
+      1) bastidores.txt  -> una linea por coche: matricula y bastidor
+      2) datos-extra.csv -> tabla con id, matricula, bastidor, garantia_meses
+
+    Se cruza por 'id' o, si no lo hay, por matricula.
     """
-    if not os.path.exists(FICHERO_EXTRA):
-        return {}, {}
     por_id, por_matricula = {}, {}
-    with open(FICHERO_EXTRA, encoding="utf-8-sig", newline="") as f:
-        for fila in csv.DictReader(f):
-            fila = {(k or "").strip().lower(): limpiar(v) for k, v in fila.items()}
-            if fila.get("id"):
-                por_id[fila["id"]] = fila
-            if fila.get("matricula"):
-                por_matricula[fila["matricula"].replace(" ", "").upper()] = fila
-    log(f"  datos extra cargados: {len(por_id)} por id, {len(por_matricula)} por matricula")
+
+    for matricula, bastidor in cargar_bastidores_txt().items():
+        por_matricula[matricula] = {"matricula": matricula, "bastidor": bastidor}
+
+    if os.path.exists(FICHERO_EXTRA):
+        with open(FICHERO_EXTRA, encoding="utf-8-sig", newline="") as f:
+            muestra = f.read(2048)
+            f.seek(0)
+            # admite tanto comas como punto y coma, que es lo que pone Excel en espanol
+            delim = ";" if muestra.count(";") > muestra.count(",") else ","
+            for fila in csv.DictReader(f, delimiter=delim):
+                fila = {(k or "").strip().lower(): limpiar(v) for k, v in fila.items()}
+                fila["bastidor"] = re.sub(r"[^A-Za-z0-9]", "", fila.get("bastidor", "")).upper()
+                if fila.get("id"):
+                    por_id[fila["id"]] = fila
+                if fila.get("matricula"):
+                    clave = normalizar_matricula(fila["matricula"])
+                    # el CSV manda sobre el txt solo si trae bastidor
+                    if fila["bastidor"] or clave not in por_matricula:
+                        por_matricula[clave] = fila
+        log(f"  {FICHERO_EXTRA}: {len(por_id)} filas con id")
+
+    con_bastidor = len([v for v in por_matricula.values() if v.get("bastidor")])
+    con_bastidor += len([v for v in por_id.values() if v.get("bastidor")])
+    log(f"  datos extra: {con_bastidor} bastidores disponibles en total")
     return por_id, por_matricula
 
 
@@ -232,7 +300,7 @@ CAMPOS_OBLIGATORIOS = ("id", "marca", "modelo", "precio", "fotos")
 
 def normalizar(ficha, extra_id, extra_matricula):
     vid = str(ficha.get("id", "")).strip()
-    matricula = limpiar(ficha.get("plate")).replace(" ", "").upper()
+    matricula = normalizar_matricula(ficha.get("plate"))
 
     fotos = []
     for doc in ficha.get("fileDocuments") or []:
