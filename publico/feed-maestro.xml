@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-10-15T08:32:51+00:00" concesionario="MID Car Soluciones S.L." total="90">
+<stock generado="2026-10-15T12:36:57+00:00" concesionario="MID Car Soluciones S.L." total="90">
   <vehiculo>
     <id>1410171116805</id>
     <matricula>3051LWX</matricula>
@@ -1221,7 +1221,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1509113550838</id>
     <matricula>9064LLP</matricula>
-    <bastidor/>
+    <bastidor>VF3VFAHK8LZ079604</bastidor>
     <marca>Peugeot</marca>
     <modelo>Expert</modelo>
     <version>Peugeot Expert Premium 2.0 BlueHDi 120 EAT8 Stan Furgón Etiqueta medioambiental C Garantía e IVA Inc</version>
@@ -1410,7 +1410,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1409154053040</id>
     <matricula>0553LWL</matricula>
-    <bastidor/>
+    <bastidor>WV2ZZZSKZNZ010694</bastidor>
     <marca>Volkswagen</marca>
     <modelo>Caddy</modelo>
     <version>Volkwagen Caddy Kombi 2.0 TDI</version>
@@ -2443,7 +2443,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1008144202660</id>
     <matricula>0218KRT</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSJB41021</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>FORD TRANSIT CONNECT Van 1.5 TDCi 74kW Trend 210 L2 4 Puertas</version>
@@ -2528,7 +2528,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1008141312097</id>
     <matricula>2957MCD</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSNB33761</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect 1.5EcoBlueTrend 210 L2 4 Puertas 100Cv</version>
@@ -2619,7 +2619,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0308173407931</id>
     <matricula>5492KZP</matricula>
-    <bastidor/>
+    <bastidor>WF07XXWPG7KY51874</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect Kombi 1.5 TDCi 100Cv Trend 230 L2 5 Puertas</version>
@@ -2723,7 +2723,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0308152244927</id>
     <matricula>4709MBZ</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSNP22786</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect con rampa 1.5EcoBlueTrend 210 L2 4 Puertas 120Cv 6 Velocidades 3 Plazas</version>
@@ -2844,7 +2844,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2807113159954</id>
     <matricula>0918LHD</matricula>
-    <bastidor/>
+    <bastidor>WF0PXXGCHPLR47836</bastidor>
     <marca>Ford</marca>
     <modelo>Focus</modelo>
     <version>Ford Focus SB 1.5EcoBlue 120Cv 6 Velocidades 5 Puertas, Etiqueta Medioambiental C IVA y garantía Inc Nacional</version>
@@ -3673,7 +3673,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <anio>2018</anio>
     <mes_matriculacion>5</mes_matriculacion>
     <km>86000</km>
-    <precio>8450</precio>
+    <precio>8550</precio>
     <precio_anterior>0</precio_anterior>
     <iva_deducible>true</iva_deducible>
     <combustible>Diesel</combustible>
@@ -3684,7 +3684,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <color>Blanco</color>
     <etiqueta_dgt>C</etiqueta_dgt>
     <garantia_meses>12</garantia_meses>
-    <cuota_mes>189</cuota_mes>
+    <cuota_mes>191</cuota_mes>
     <meses_financiacion>60</meses_financiacion>
     <reservado>false</reservado>
     <concesionario>torrejon-de-ardoz</concesionario>
@@ -4465,7 +4465,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>0306203534086</id>
     <matricula>2286LWC</matricula>
-    <bastidor/>
+    <bastidor>VR3EFYHT2MJ910895</bastidor>
     <marca>Peugeot</marca>
     <modelo>Partner</modelo>
     <version>Peugeot Partner Premium Long 1.5 BlueHDi 100Cv Etiqueta C IVA y Garantía Incl</version>
@@ -5521,7 +5521,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>2704162958657</id>
     <matricula>3805LBZ</matricula>
-    <bastidor/>
+    <bastidor>WF07XXWPG7KU78106</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect Kombi 1.5TDci 100Cv Trend 230 L2 (M1)</version>
@@ -5626,7 +5626,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2704154405465</id>
     <matricula>9526MBV</matricula>
-    <bastidor/>
+    <bastidor>WV1ZZZSKXPX012096</bastidor>
     <marca>Volkswagen</marca>
     <modelo>Caddy</modelo>
     <version>Volkswagen Caddy Profesional Furgón Nuevo Modelo 2.0Tdi 122Cv 4MOTION 6Velocidades IVA y Garantía Incl Etiqueta C</version>
@@ -5825,7 +5825,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>1604175647243</id>
     <matricula>1633LGG</matricula>
-    <bastidor/>
+    <bastidor>WF0YXXTTGYKJ44608</bastidor>
     <marca>Ford</marca>
     <modelo>Custom</modelo>
     <version>Ford Transit Custom Van 2.0 TDCI 130Cv 320 L1 Etiqueta C IVA y Garantía Incl</version>
@@ -6270,7 +6270,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2903153758876</id>
     <matricula>4759LMZ</matricula>
-    <bastidor/>
+    <bastidor>VSSZZZKLZMR070676</bastidor>
     <marca>Seat</marca>
     <modelo>Leon</modelo>
     <version>Seat Leon SP 1.4 e-Hybrid DSG S&amp;S Xcellence Go L Etiqueta 0 Electrico Enchufable Gasolina</version>
@@ -6600,7 +6600,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0403181013806</id>
     <matricula>4051LWG</matricula>
-    <bastidor/>
+    <bastidor>U5YH5F1AGML009145</bastidor>
     <marca>Kia</marca>
     <modelo>Niro</modelo>
     <version>KIA XCeed 1.6 GDI PHEV 104KW (141CV) ETECH (Eléctrico enchufable y Gasolina) Etiqueta 0</version>
@@ -6897,7 +6897,7 @@ Este anuncio no es vinculante, puede contener errores, se muestra a título info
   <vehiculo>
     <id>2702100803631</id>
     <matricula>7272LNF</matricula>
-    <bastidor/>
+    <bastidor>UU1F6720066973642</bastidor>
     <marca>Dacia</marca>
     <modelo>Dokker</modelo>
     <version>Dacia Dokker Van Essential 1.6 110Cv GLP Híbrido ECO,</version>
@@ -7167,7 +7167,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>3001115233671</id>
     <matricula>6239LSH</matricula>
-    <bastidor/>
+    <bastidor>WF0NXXGCHNMR51633</bastidor>
     <marca>Ford</marca>
     <modelo>Focus</modelo>
     <version>Ford Focus 1.5EcoBlue Titanium 120Cv Automático</version>
@@ -7273,7 +7273,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2201112455152</id>
     <matricula>6609LBN</matricula>
-    <bastidor/>
+    <bastidor>UU1B5220063899208</bastidor>
     <marca>Dacia</marca>
     <modelo>Sandero</modelo>
     <version>Dacia Sandero Serie Limitada Xplore TCE Gasolina y GLP</version>
@@ -7581,7 +7581,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>0712191648012</id>
     <matricula>0199LMK</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSLS88141</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect Van 1.5EcoBlue Trend 210 S&amp;S Trend L2, 6 Vel Etiqueta C IVA y garantía Incl</version>
@@ -8129,7 +8129,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0608144136697</id>
     <matricula>4176LGZ</matricula>
-    <bastidor/>
+    <bastidor>VR7ECYHYCLN521356</bastidor>
     <marca>Citroen</marca>
     <modelo>Berlingo</modelo>
     <version>Citroen Berlingo Talla M 1.5 BlueHDi 100 S&amp;S FEEL monovolumen IVA y Garantía Inc Etiqueta Medioambiental C</version>
@@ -8374,7 +8374,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0607085200332</id>
     <matricula>7550LMY</matricula>
-    <bastidor/>
+    <bastidor>VF3MJEHZUMS023313</bastidor>
     <marca>Peugeot</marca>
     <modelo>5008</modelo>
     <version>Peugeot 5008 2.0 BlueHDi 180Cv Allure S&amp;S EAT8, 7 Plazas</version>
@@ -9008,7 +9008,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1904165332774</id>
     <matricula>2874KTZ</matricula>
-    <bastidor/>
+    <bastidor>VF3LBYHZPKS060982</bastidor>
     <marca>Peugeot</marca>
     <modelo>308</modelo>
     <version>Peugeot 308 1.5BlueHdi Style 130Cv,</version>
@@ -9100,7 +9100,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1504143933268</id>
     <matricula>6151KWY</matricula>
-    <bastidor/>
+    <bastidor>KNACB81CGK5280893</bastidor>
     <marca>Kia</marca>
     <modelo>Niro</modelo>
     <version>KIA NIRO 1.6 GDi Híbrido 141Cv Etiqueta ECO</version>
@@ -9191,7 +9191,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>3108093817304</id>
     <matricula>4195KLG</matricula>
-    <bastidor/>
+    <bastidor>VF3EBHY6JJ6061541</bastidor>
     <marca>Peugeot</marca>
     <modelo>Partner</modelo>
     <version>Peugeot Partner 1.6BlueHdi L2 100Cv</version>

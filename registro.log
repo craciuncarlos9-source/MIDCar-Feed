@@ -123,3 +123,96 @@
 [2026-10-15 08:32:51]    Los tienes listados en publico/pendientes-bastidor.csv para rellenarlos.
 [2026-10-15 08:32:51]    Stock para IA: 90 vehiculos en publico/stock-ia.json y publico/stock-ia.txt
 [2026-10-15 08:32:51] Listo.
+[2026-10-15 12:36:50] ================================================================
+[2026-10-15 12:36:50] Generando feed de stock de MID Car
+[2026-10-15 12:36:50] 1. Leyendo la lista de vehiculos...
+[2026-10-15 12:36:51]   pagina 1: 200 vehiculos (acumulado 200 de 990)
+[2026-10-15 12:36:52]   pagina 2: 200 vehiculos (acumulado 400 de 990)
+[2026-10-15 12:36:54]   pagina 3: 200 vehiculos (acumulado 600 de 990)
+[2026-10-15 12:36:55]   pagina 4: 200 vehiculos (acumulado 800 de 990)
+[2026-10-15 12:36:56]   pagina 5: 190 vehiculos (acumulado 990 de 990)
+[2026-10-15 12:36:56]    total en el sistema: 990 | publicables: 90
+[2026-10-15 12:36:56] 2. Leyendo las fichas completas...
+[2026-10-15 12:36:57]   fichas nuevas: 1 | reaprovechadas de cache: 89
+[2026-10-15 12:36:57] 3. Normalizando y revisando datos...
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 1 de bastidores.txt: '3051LWX'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 2 de bastidores.txt: '5502LZP'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 3 de bastidores.txt: '9340LNF'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 4 de bastidores.txt: '4576LKP'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 5 de bastidores.txt: '5723MBF'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 6 de bastidores.txt: '4982LTB'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 7 de bastidores.txt: '6124LWZ'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 8 de bastidores.txt: '7266LVK'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 9 de bastidores.txt: '8441LYT'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 10 de bastidores.txt: '8106LYH'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 11 de bastidores.txt: '5653LPK'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 13 de bastidores.txt: '3136LPX'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 15 de bastidores.txt: '9505LWX'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 16 de bastidores.txt: '2791LZT'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 17 de bastidores.txt: '1044LMS'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 18 de bastidores.txt: '7771LNC'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 19 de bastidores.txt: '8229LND'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 20 de bastidores.txt: '7155LHT'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 21 de bastidores.txt: '2675LYN'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 22 de bastidores.txt: '5374LWD'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 23 de bastidores.txt: '6483LTG'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 29 de bastidores.txt: '2618MFX'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 30 de bastidores.txt: '1280LWH'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 31 de bastidores.txt: '9446LGL'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 32 de bastidores.txt: '7994LKZ'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 33 de bastidores.txt: '1079LHT'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 34 de bastidores.txt: '9344LMV'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 35 de bastidores.txt: '9576LWB'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 36 de bastidores.txt: '7282KJY'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 37 de bastidores.txt: '0102LFG'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 38 de bastidores.txt: '0198LXP'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 39 de bastidores.txt: '2096LHY'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 40 de bastidores.txt: '3964LPT'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 41 de bastidores.txt: '0967LDN'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 42 de bastidores.txt: '6915LJY'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 43 de bastidores.txt: '4275LVM'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 45 de bastidores.txt: '8039LHW'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 46 de bastidores.txt: '4782LLC'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 47 de bastidores.txt: '3011MNJ'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 48 de bastidores.txt: '9224LGS'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 49 de bastidores.txt: '8241LWK'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 50 de bastidores.txt: '8124LWF'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 51 de bastidores.txt: '9445LHB'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 52 de bastidores.txt: '1691LBR'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 53 de bastidores.txt: '3843LBH'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 56 de bastidores.txt: '8506LWR'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 58 de bastidores.txt: '3778LJZ'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 59 de bastidores.txt: '1109LLF'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 60 de bastidores.txt: '6036LJW'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 62 de bastidores.txt: '7177LVG'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 63 de bastidores.txt: '3758LTM'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 65 de bastidores.txt: '9959LXS'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 66 de bastidores.txt: '9613HGN'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 68 de bastidores.txt: '7016LVV'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 69 de bastidores.txt: '6983LNR'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 72 de bastidores.txt: '1693LBR'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 73 de bastidores.txt: '2525LSC'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 75 de bastidores.txt: '1170LDW'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 76 de bastidores.txt: '4402LZR'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 77 de bastidores.txt: '8933LHN'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 78 de bastidores.txt: '8805MTS'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 80 de bastidores.txt: '9562LKG'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 82 de bastidores.txt: '1260LBH'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 83 de bastidores.txt: '4533KWW'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 84 de bastidores.txt: '4051LRM'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 85 de bastidores.txt: '2183KVD'
+[2026-10-15 12:36:57]   aviso: no entiendo la linea 86 de bastidores.txt: '1177KSB'
+[2026-10-15 12:36:57]   bastidores leidos de bastidores.txt: 22
+[2026-10-15 12:36:57]   datos extra: 22 bastidores disponibles en total
+[2026-10-15 12:36:57]    aviso: 1 vehiculos sin matricula en el sistema
+[2026-10-15 12:36:57] 4. Control de seguridad...
+[2026-10-15 12:36:57]    control de seguridad superado
+[2026-10-15 12:36:57] 5. Escribiendo ficheros...
+[2026-10-15 12:36:57]    publico/feed-maestro.xml (641 KB) con 90 vehiculos
+[2026-10-15 12:36:57]    precio medio 17072 EUR | 2220 fotos
+[2026-10-15 12:36:57] 6. Traduciendo a los formatos de cada destino...
+[2026-10-15 12:36:57]    Google Vehicle Ads: 22 de 90 vehiculos
+[2026-10-15 12:36:57]    ATENCION: 68 vehiculos sin bastidor (VIN), que Google exige.
+[2026-10-15 12:36:57]    Los tienes listados en publico/pendientes-bastidor.csv para rellenarlos.
+[2026-10-15 12:36:57]    Stock para IA: 90 vehiculos en publico/stock-ia.json y publico/stock-ia.txt
+[2026-10-15 12:36:57] Listo.
