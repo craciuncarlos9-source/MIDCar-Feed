@@ -1,5 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-10-15T12:36:57+00:00" concesionario="MID Car Soluciones S.L." total="90">
+<stock generado="2026-10-15T16:31:18+00:00" concesionario="MID Car Soluciones S.L." total="92">
+  <vehiculo>
+    <id>1510153254513</id>
+    <matricula>9990LWX</matricula>
+    <bastidor/>
+    <marca>Peugeot</marca>
+    <modelo>208</modelo>
+    <version>Peugeot 208 1.5 BlueHDi 100Cv 5Puertas Etiqueta C IVA y Garantía Incl Nacional 1Dueño</version>
+    <anio>2022</anio>
+    <mes_matriculacion>3</mes_matriculacion>
+    <km>76974</km>
+    <precio>13900</precio>
+    <precio_anterior>0</precio_anterior>
+    <iva_deducible>true</iva_deducible>
+    <combustible>Diesel</combustible>
+    <cambio>Manual</cambio>
+    <potencia_cv>100</potencia_cv>
+    <puertas>5</puertas>
+    <plazas>5</plazas>
+    <color>Blanco</color>
+    <etiqueta_dgt>C</etiqueta_dgt>
+    <garantia_meses>12</garantia_meses>
+    <cuota_mes>273</cuota_mes>
+    <meses_financiacion>72</meses_financiacion>
+    <reservado>false</reservado>
+    <concesionario>torrejon-de-ardoz</concesionario>
+    <url>https://www.midcar.net/peugeot-208-15-bluehdi-100cv-5puertas-etiqueta-c-iva-y-garantia-incl-nacional-1dueno-2022-1510153254513</url>
+    <equipamiento>
+      <item>Entrega inmediata</item>
+      <item>Vehículo nacional</item>
+      <item>Kilómetros certificados</item>
+      <item>Historial de mantenimiento</item>
+      <item>Vehículo revisado</item>
+      <item>Único propietario</item>
+      <item>Garantia 1 año</item>
+      <item>Informe CARFAX disponible</item>
+    </equipamiento>
+    <descripcion>Peugeot 208 1.5 BlueHDi 100Cv 5Puertas, 6 Velocidades, del Año 21/03/2022, Etiqueta Medioambiental C con 76.974 kilómetros certificados por escrito e historial de mantenimiento al día.
+
+Equipamiento:
+
+- Pantalla táctil
+- Aire Acondicionado
+- Dirección Asistida
+- Elevalunas eléctricas
+- Radio Cd Mp3 Bluetooth
+- Control de velocidad,
+- Luces automáticas
+- Limitador de velocidad
+- Retrovisores eléctricos
+- Cierre centralizado con mando
+- Volante multifunción
+- Asistente de carríl
+- Llantas aleacion
+
+
+Vehículo de ÚNICO PROPIETARIO con procedencia NACIONAL
+
+Garantía mecánica de 12 meses e IVA incluido,
+
+Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
+
+Tasamos su vehículo como parte de pago.
+
+Horario de Apertura: Lunes – Jueves: 9:00h a 14:00h – 15:30h a 20:30h
+Viernes de 9:00h a 14:00h – 15:30h a 17:00h
+Sábado Cerrado
+Domingo: 11:00h – 14:00h,
+
+Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.</descripcion>
+    <fotos>
+      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/1510153254513/01-15102026153254514-1500px.jpg</foto>
+      <foto orden="2">https://midcar.azureedge.net/vehiculos/1510153254513/02-15102026153255024-1500px.jpg</foto>
+      <foto orden="3">https://midcar.azureedge.net/vehiculos/1510153254513/03-15102026153255298-1500px.jpg</foto>
+      <foto orden="4">https://midcar.azureedge.net/vehiculos/1510153254513/04-15102026153255571-1500px.jpg</foto>
+      <foto orden="5">https://midcar.azureedge.net/vehiculos/1510153254513/05-15102026153255872-1500px.JPG</foto>
+      <foto orden="6">https://midcar.azureedge.net/vehiculos/1510153254513/06-15102026153256018-1500px.JPG</foto>
+      <foto orden="7">https://midcar.azureedge.net/vehiculos/1510153254513/07-15102026153256169-1500px.JPG</foto>
+      <foto orden="8">https://midcar.azureedge.net/vehiculos/1510153254513/08-15102026153256342-1500px.JPG</foto>
+      <foto orden="9">https://midcar.azureedge.net/vehiculos/1510153254513/09-15102026153256503-1500px.JPG</foto>
+      <foto orden="10">https://midcar.azureedge.net/vehiculos/1510153254513/010-15102026153256667-1500px.JPG</foto>
+    </fotos>
+  </vehiculo>
+  <vehiculo>
+    <id>1510152338883</id>
+    <matricula>4625LLH</matricula>
+    <bastidor/>
+    <marca>Ford</marca>
+    <modelo>Transit Connect</modelo>
+    <version>Ford Transit Connect Van VAN 1.5EcoBlue 100Cv TREND 210 L2 Etiqueta C IVA y Garantía Incl</version>
+    <anio>2020</anio>
+    <mes_matriculacion>11</mes_matriculacion>
+    <km>126746</km>
+    <precio>13900</precio>
+    <precio_anterior>0</precio_anterior>
+    <iva_deducible>true</iva_deducible>
+    <combustible>Diesel</combustible>
+    <cambio>Manual</cambio>
+    <potencia_cv>100</potencia_cv>
+    <puertas>4</puertas>
+    <plazas>2</plazas>
+    <color>Blanco</color>
+    <etiqueta_dgt>C</etiqueta_dgt>
+    <garantia_meses>12</garantia_meses>
+    <cuota_mes>273</cuota_mes>
+    <meses_financiacion>72</meses_financiacion>
+    <reservado>false</reservado>
+    <concesionario>torrejon-de-ardoz</concesionario>
+    <url>https://www.midcar.net/ford-transit-connect-van-van-15ecoblue-100cv-trend-210-l2--etiqueta-c-iva-y-garantia-incl-2020-1510152338883</url>
+    <equipamiento>
+      <item>Entrega inmediata</item>
+      <item>Vehículo nacional</item>
+      <item>Kilómetros certificados</item>
+      <item>Historial de mantenimiento</item>
+      <item>Vehículo revisado</item>
+      <item>Único propietario</item>
+      <item>Garantia 1 año</item>
+      <item>Informe CARFAX disponible</item>
+    </equipamiento>
+    <descripcion>Ford Transit Connect Van VAN 1.5EcoBlue 100Cv TREND 210 L2, del 30/11/2020 Etiqueta medioambiental C, con 12746.000 kilómetros certificados por escrito con historial de mantenimiento.
+
+Equipamiento:
+- Control de crucero con Limitador de velocidad + Volante de cuero
+- Retrovisores plegables electrónicament
+- Climatizador 
+- Mamparo Completo con apertura inferior
+- Control tracción
+- Ordenador de a bordo
+- Dirección Asistida
+- Elevalunas eléctricas
+- Radio CD MP3
+- Paquete Fumador
+- Foros antiniebla
+- Cierre centralizado con mando
+
+Vehículo de ÚNICO PROPIETARIO con procedencia NACIONAL.
+
+Garantía mecánica de 12 meses e IVA incluido,
+
+Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
+
+Tasamos su vehículo como parte de pago.
+
+Horario de Apertura: Lunes – Jueves: 9:00h a 14:00h – 15:30h a 20:30h
+Viernes de 9:00h a 14:00h – 15:30h a 17:00h
+Sábado Cerrado
+Domingo: 11:00h – 14:00h,
+
+
+Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.</descripcion>
+    <fotos>
+      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/1510152338883/01-15102026152338896-1500px.jpg</foto>
+      <foto orden="2">https://midcar.azureedge.net/vehiculos/1510152338883/02-15102026152339490-1500px.jpg</foto>
+      <foto orden="3">https://midcar.azureedge.net/vehiculos/1510152338883/03-15102026152339628-1500px.jpg</foto>
+      <foto orden="4">https://midcar.azureedge.net/vehiculos/1510152338883/04-15102026152339723-1500px.jpg</foto>
+      <foto orden="5">https://midcar.azureedge.net/vehiculos/1510152338883/05-15102026152339794-1500px.JPG</foto>
+      <foto orden="6">https://midcar.azureedge.net/vehiculos/1510152338883/06-15102026152339865-1500px.JPG</foto>
+      <foto orden="7">https://midcar.azureedge.net/vehiculos/1510152338883/07-15102026152339919-1500px.JPG</foto>
+      <foto orden="8">https://midcar.azureedge.net/vehiculos/1510152338883/08-15102026152339979-1500px.JPG</foto>
+      <foto orden="9">https://midcar.azureedge.net/vehiculos/1510152338883/09-15102026152340039-1500px.JPG</foto>
+      <foto orden="10">https://midcar.azureedge.net/vehiculos/1510152338883/010-15102026152340101-1500px.JPG</foto>
+      <foto orden="11">https://midcar.azureedge.net/vehiculos/1510152338883/011-15102026152340188-1500px.JPG</foto>
+      <foto orden="12">https://midcar.azureedge.net/vehiculos/1510152338883/012-15102026152340244-1500px.JPG</foto>
+      <foto orden="13">https://midcar.azureedge.net/vehiculos/1510152338883/013-15102026152340305-1500px.JPG</foto>
+      <foto orden="14">https://midcar.azureedge.net/vehiculos/1510152338883/014-15102026152340365-1500px.JPG</foto>
+    </fotos>
+  </vehiculo>
   <vehiculo>
     <id>1410171116805</id>
     <matricula>3051LWX</matricula>
@@ -1113,7 +1279,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1609164020460</id>
     <matricula>5653LPK</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSMM87823</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect Van 1.5EcoBlue 210 S&amp;S Trend L2 100Cv Pantalla IVA y Garantía Inc Nacional</version>
@@ -1831,7 +1997,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>3108130204002</id>
     <matricula>7771LNC</matricula>
-    <bastidor/>
+    <bastidor>UU1F6720366973635</bastidor>
     <marca>Dacia</marca>
     <modelo>Dokker</modelo>
     <version>Dacia Dokker Van Essential 1.6 110Cv GLP Híbrido ECO IVA y garantía Incluida Nacional historial mantenimiento</version>
@@ -1935,7 +2101,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>3108091415945</id>
     <matricula>8229LND</matricula>
-    <bastidor/>
+    <bastidor>WF0YXXTTGYMJ67652</bastidor>
     <marca>Ford</marca>
     <modelo>Custom</modelo>
     <version>Ford Transit Custom Van 2.0 TDCI 170Cv 320 L1 Trend con Etiqueta medioambiental C</version>
@@ -2162,7 +2328,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1308111752730</id>
     <matricula>2675LYN</matricula>
-    <bastidor/>
+    <bastidor>VXEVBYHRMNZ017817</bastidor>
     <marca>Opel</marca>
     <modelo>Movano</modelo>
     <version>Opel Vivaro 1.5Diesel Standard 100Cv Etiqueta C IVA y Garantía Incluido</version>
@@ -2352,7 +2518,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1308074709383</id>
     <matricula>6483LTG</matricula>
-    <bastidor/>
+    <bastidor>ZFA26300006U66695</bastidor>
     <marca>Fiat</marca>
     <modelo>Doblo</modelo>
     <version>Fiat Doblo Maxi SX 1.4Tjet 120Cv GNC Etiqueta ECO IVA y Garantía Inc Nacional</version>
@@ -3047,7 +3213,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2007144942382</id>
     <matricula>1280LWH</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSNL55768</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect 3Plazas 1.5EcoBlueTrend 210 L2 4 Puertas 100Cv IVA y Garantía Inc Etiqueta C</version>
@@ -3447,7 +3613,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2306170729577</id>
     <matricula>9344LMV</matricula>
-    <bastidor/>
+    <bastidor>WF0JXXWPCJMU61359</bastidor>
     <marca>Ford</marca>
     <modelo>S-max</modelo>
     <version>Ford S-Max 2.0Tdci 2.0 TDCi Panther 150Cv 7Plazas IVA y Garantía Incl nacional</version>
@@ -3666,7 +3832,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2306160806272</id>
     <matricula>7282KJY</matricula>
-    <bastidor/>
+    <bastidor>ZFA22500006K83795</bastidor>
     <marca>Fiat</marca>
     <modelo>Fiorino</modelo>
     <version>Fiat Fiorino 1.3Mjet E6+ 80Cv IVA y garantía Incl Etiqueta C</version>
@@ -3759,7 +3925,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1806150252539</id>
     <matricula>0102LFG</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSLB66785</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect Van VAN 1.5EcoBlue 100Cv TREND 210 L2 3 Plazas Etiqueta C IVA y Garantía Incl</version>
@@ -3836,7 +4002,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1706115213879</id>
     <matricula>0198LXP</matricula>
-    <bastidor/>
+    <bastidor>VR7EFYHT2NJ615592VR7EDFYHYCMJ577157</bastidor>
     <marca>Citroen</marca>
     <modelo>Berlingo</modelo>
     <version>Citroen Berlingo Premium XL 1.5 BlueHDi 100Cv Etiqueta C IVA Garantía Incl Nacional</version>
@@ -4054,7 +4220,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>1106173433213</id>
     <matricula>3964LPT</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSMU63955</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect 3Plazas Automatica 1.5EcoBlue 120Cv Etiqueta C IVA y Garantia Inc</version>
@@ -4152,7 +4318,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1106162337246</id>
     <matricula>0967LDN</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSKU09878</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect 3 Plazas 1.5EcoBlueTrend 210 L2 4 Puertas 100Cv IVA y Garantía Inc Etiqueta C</version>
@@ -5118,7 +5284,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1205113108540</id>
     <matricula>8124LWF</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSNL44641</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect 1.5EcoBlueTrend 210 L2 4 Puertas 120Cv IVA y Garantía Inc Etiqueta C</version>
@@ -5214,7 +5380,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0805141038353</id>
     <matricula>9445LHB</matricula>
-    <bastidor/>
+    <bastidor>WF0PXXGCHPLG79527</bastidor>
     <marca>Ford</marca>
     <modelo>Focus</modelo>
     <version>Ford Focus 1.5EcoBlue ST-Line 120Cv 5 Puertas Etiqueta Medioambiental C</version>
@@ -5925,7 +6091,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>1004151140854</id>
     <matricula>3778LJZ</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSLL44668</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect Van 1.5EcoBlue Sport 210 S&amp;S 120Cv L2 Etiqueta C IVA y Garantía Incl</version>
@@ -6036,7 +6202,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0904152329519</id>
     <matricula>1109LLF</matricula>
-    <bastidor/>
+    <bastidor>WF0EXXWPCELS01140</bastidor>
     <marca>Ford</marca>
     <modelo>Mondeo</modelo>
     <version>Ford Mondeo 2.0Tdci Titanium 150 Cv Etiqueta medioambiental C Nacional IVA y Garantía Incl</version>
@@ -6154,7 +6320,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2903164338155</id>
     <matricula>6036LJW</matricula>
-    <bastidor/>
+    <bastidor>KMHK581EGLU016380</bastidor>
     <marca>Hyundai</marca>
     <modelo>Kona</modelo>
     <version>Hyundai Kona 1.6 GDI HEV Style Sky DT Hybrido Etiqueta ECO IVA y Garantía Incl</version>
@@ -6499,7 +6665,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>1303150000179</id>
     <matricula>3758LTM</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSMA44910</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect Van Con Instalacion Frio 1.5EcoBlue Etiqueta C IVA y Garantía Incl Trend 210 S&amp;S Trend L2 3Plazas 6 Velocidades</version>
@@ -6989,7 +7155,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>1702190845862</id>
     <matricula>7016LVV</matricula>
-    <bastidor/>
+    <bastidor>ZFA22500006V64261</bastidor>
     <marca>Fiat</marca>
     <modelo>Fiorino</modelo>
     <version>Fiat Fiorino 1.3Mjet 80Cv Etiqueta C IVA y Garantía Incluido</version>
@@ -7079,7 +7245,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1202181822653</id>
     <matricula>6983LNR</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSMM84713</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect 1.5EcoBlueTrend 210 L2 4 Puertas 100Cv Nacional IVA y Garantía Incl Etiqueta C</version>
@@ -7795,7 +7961,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>0411205816491</id>
     <matricula>4402LZR</matricula>
-    <bastidor/>
+    <bastidor>VR7EFYHT2NN538260</bastidor>
     <marca>Citroen</marca>
     <modelo>Berlingo</modelo>
     <version>Citroen Berlingo 1.5BlueHdi 102Cv 6 Velocidades Etiqueta C IVA y Garantía Incl Nacional Historial mantenimiento</version>
@@ -8020,7 +8186,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1310173908369</id>
     <matricula>8805MTS</matricula>
-    <bastidor/>
+    <bastidor>WF0EXXTRERA05436</bastidor>
     <marca>Ford</marca>
     <modelo>Transit</modelo>
     <version>Ford Transit L4H3 Van Trend RWD 170Cv Nacional IVA y Garantía Incl Etiqueta C</version>
@@ -8478,7 +8644,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1601205117727</id>
     <matricula>1260LBH</matricula>
-    <bastidor/>
+    <bastidor>UU18SDXV563046472</bastidor>
     <marca>Peugeot</marca>
     <modelo>208</modelo>
     <version>Peugeot 208 Active 1.6 Bluehdi, 100Cv 100 Cv Nacional 1Dueño Etiqueta C IVA y Garantía Incl</version>
