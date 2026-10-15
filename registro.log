@@ -50,3 +50,27 @@
 [2026-10-14 20:28:37]    Los tienes listados en publico/pendientes-bastidor.csv para rellenarlos.
 [2026-10-14 20:28:37]    Stock para IA: 90 vehiculos en publico/stock-ia.json y publico/stock-ia.txt
 [2026-10-14 20:28:37] Listo.
+[2026-10-15 00:36:27] ================================================================
+[2026-10-15 00:36:27] Generando feed de stock de MID Car
+[2026-10-15 00:36:27] 1. Leyendo la lista de vehiculos...
+[2026-10-15 00:36:29]   pagina 1: 200 vehiculos (acumulado 200 de 990)
+[2026-10-15 00:36:30]   pagina 2: 200 vehiculos (acumulado 400 de 990)
+[2026-10-15 00:36:32]   pagina 3: 200 vehiculos (acumulado 600 de 990)
+[2026-10-15 00:36:33]   pagina 4: 200 vehiculos (acumulado 800 de 990)
+[2026-10-15 00:36:35]   pagina 5: 190 vehiculos (acumulado 990 de 990)
+[2026-10-15 00:36:35]    total en el sistema: 990 | publicables: 90
+[2026-10-15 00:36:35] 2. Leyendo las fichas completas...
+[2026-10-15 00:36:35]   fichas nuevas: 0 | reaprovechadas de cache: 90
+[2026-10-15 00:36:35] 3. Normalizando y revisando datos...
+[2026-10-15 00:36:35]    aviso: 1 vehiculos sin matricula en el sistema
+[2026-10-15 00:36:35] 4. Control de seguridad...
+[2026-10-15 00:36:35]    control de seguridad superado
+[2026-10-15 00:36:35] 5. Escribiendo ficheros...
+[2026-10-15 00:36:35]    publico/feed-maestro.xml (640 KB) con 90 vehiculos
+[2026-10-15 00:36:35]    precio medio 17071 EUR | 2220 fotos
+[2026-10-15 00:36:35] 6. Traduciendo a los formatos de cada destino...
+[2026-10-15 00:36:35]    Google Vehicle Ads: 0 de 90 vehiculos
+[2026-10-15 00:36:35]    ATENCION: 90 vehiculos sin bastidor (VIN), que Google exige.
+[2026-10-15 00:36:35]    Los tienes listados en publico/pendientes-bastidor.csv para rellenarlos.
+[2026-10-15 00:36:35]    Stock para IA: 90 vehiculos en publico/stock-ia.json y publico/stock-ia.txt
+[2026-10-15 00:36:35] Listo.
