@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-10-15T16:31:18+00:00" concesionario="MID Car Soluciones S.L." total="92">
+<stock generado="2026-10-15T17:40:35+00:00" concesionario="MID Car Soluciones S.L." total="89">
   <vehiculo>
     <id>1510153254513</id>
     <matricula>9990LWX</matricula>
@@ -169,7 +169,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1410171116805</id>
     <matricula>3051LWX</matricula>
-    <bastidor/>
+    <bastidor>VR3UBYHTKN5816567</bastidor>
     <marca>Peugeot</marca>
     <modelo>208</modelo>
     <version>Peugeot 208 1.5 BlueHDi 100Cv 5Puertas Etiqueta C IVA y Garantía Incl Nacional 1Dueño</version>
@@ -252,7 +252,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1410165839302</id>
     <matricula>5502LZP</matricula>
-    <bastidor/>
+    <bastidor>YARECYHT2GJ001846</bastidor>
     <marca>Toyota</marca>
     <modelo>Proace City</modelo>
     <version>Toyota Proace City 1.5 TD VX L1 5 Puertas IVA y Garantía Inc Etiqueta C Monovolumen</version>
@@ -359,7 +359,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>1410164011869</id>
     <matricula>9340LNF</matricula>
-    <bastidor/>
+    <bastidor>UU1K6720267116764</bastidor>
     <marca>Dacia</marca>
     <modelo>Dokker</modelo>
     <version>Dacia Dokker Combi 1.6GLP / Gasolina 110Cv Híbrido Etiqueta medioambiental ECO IVA y Garantía Incl</version>
@@ -453,7 +453,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>0810154846098</id>
     <matricula>4576LKP</matricula>
-    <bastidor/>
+    <bastidor>WMWXP310302N77830</bastidor>
     <marca>MINI</marca>
     <modelo>Cooper</modelo>
     <version>MINI COOPER SE 184 CV AUTOMÁTICO 100% ELÉCTRICO ETIQUETA 0 NACIONAL</version>
@@ -651,7 +651,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0610151513419</id>
     <matricula>5723MBF</matricula>
-    <bastidor/>
+    <bastidor>WV1ZZZSK7PX010385</bastidor>
     <marca>Volkswagen</marca>
     <modelo>Caddy</modelo>
     <version>Volkswagen Caddy Profesional Maxi Furgón 1.5 TGI GNC Etiqueta ECO IVA y Garantía Incl</version>
@@ -764,7 +764,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0510175129403</id>
     <matricula>4982LTB</matricula>
-    <bastidor/>
+    <bastidor>UU1F6720767520564</bastidor>
     <marca>Dacia</marca>
     <modelo>Dokker</modelo>
     <version>Dacia Dokker Van Essential 1.6 110Cv GLP Híbrido ECO IVA y Garantía Incluido Nacional</version>
@@ -866,7 +866,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>0110195320242</id>
     <matricula>6124LWZ</matricula>
-    <bastidor/>
+    <bastidor>VR3EFYHT2MJ877350</bastidor>
     <marca>Peugeot</marca>
     <modelo>Partner</modelo>
     <version>Peugeot Partner L2 Premium Etiqueta C IVA y Garantía Incl Long</version>
@@ -978,7 +978,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>2209163506294</id>
     <matricula>7266LVK</matricula>
-    <bastidor/>
+    <bastidor>VR7EFYHT2MN558825</bastidor>
     <marca>Citroen</marca>
     <modelo>Berlingo</modelo>
     <version>Citroen Berlingo Premium 1.5 BlueHDi 100Cv IVA y Garantía Incl Etiqueta C Nacional</version>
@@ -1070,7 +1070,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>2109144719546</id>
     <matricula>8441LYT</matricula>
-    <bastidor/>
+    <bastidor>WF0YXXTTGYNL26166</bastidor>
     <marca>Ford</marca>
     <modelo>Custom</modelo>
     <version>Ford Custom Van 2.0 TDCI 340 L2 MHEV Trend Tracción delantera 130Cv Etiqueta medioambiental ECO IVA y Garantía Inc</version>
@@ -1193,7 +1193,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2109100254412</id>
     <matricula>8106LYH</matricula>
-    <bastidor/>
+    <bastidor>VR3UBYHTKNT040479</bastidor>
     <marca>Peugeot</marca>
     <modelo>208</modelo>
     <version>Peugeot 208 1.5 BlueHDi Allure 100Cv 5Puertas 6 Velocidades Etiqueta C IVA y Garantía Inc</version>
@@ -1484,7 +1484,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1409155001285</id>
     <matricula>3136LPX</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSMM85265</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect L2 1.5 TDCi</version>
@@ -1666,7 +1666,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0309165045996</id>
     <matricula>9505LWX</matricula>
-    <bastidor/>
+    <bastidor>WF0YXXTTGYNY36921</bastidor>
     <marca>Ford</marca>
     <modelo>Custom</modelo>
     <version>Ford Transit Custom Van 2.0 TDCI 96kW 280 L1 MHEV Trend 130Cv Etiqueta medioambiental ECO IVA y Garantía Incl</version>
@@ -1769,7 +1769,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0309112247614</id>
     <matricula>2791LZT</matricula>
-    <bastidor/>
+    <bastidor>WV1ZZZSKXPX009747</bastidor>
     <marca>Volkswagen</marca>
     <modelo>Caddy</modelo>
     <version>Volkswagen Caddy Profesional Maxi Furgón Nueva 1.5TGI GNC 130Cv Etiqueta ECO IVA y Garantía Incl Nacional</version>
@@ -1879,7 +1879,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0209085805570</id>
     <matricula>1044LMS</matricula>
-    <bastidor/>
+    <bastidor>VR7EFYHYCMJ577157</bastidor>
     <marca>Citroen</marca>
     <modelo>Berlingo</modelo>
     <version>Citroen Berlingo Premium 1.5 BlueHDi 100Cv IVA y Garantía Inc Nacional 1Dueño Etiqueta C</version>
@@ -2230,7 +2230,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>2008160834352</id>
     <matricula>7155LHT</matricula>
-    <bastidor/>
+    <bastidor>WV1ZZZ2KZLX105670</bastidor>
     <marca>Volkswagen</marca>
     <modelo>Caddy</modelo>
     <version>Vw Caddy 1.4TGI GNC Hybrid Etiqueta ECO 110Cv IVA y Garantía Incl Nacional Color Rojo</version>
@@ -2437,7 +2437,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>1308082938163</id>
     <matricula>5374LWD</matricula>
-    <bastidor/>
+    <bastidor>VR3UBYHTKN5803905</bastidor>
     <marca>Peugeot</marca>
     <modelo>208</modelo>
     <version>Peugeot 208 1.5BlueHdi 100Cv Active Nacional Etiqueta C Dueño IVA y Garantía Inc</version>
@@ -3110,7 +3110,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2707115158607</id>
     <matricula>2618MFX</matricula>
-    <bastidor/>
+    <bastidor>SB1Z93BE00E367446</bastidor>
     <marca>Toyota</marca>
     <modelo>Corolla</modelo>
     <version>Toyota Corolla 1.8E-CVT Tour Sport 125H Etiqueta ECO Nacional IVA y Garantía Incl</version>
@@ -3310,7 +3310,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1407090800749</id>
     <matricula>9446LGL</matricula>
-    <bastidor/>
+    <bastidor>ZFA26300006N83908</bastidor>
     <marca>Fiat</marca>
     <modelo>Doblo</modelo>
     <version>Fiat Doblo Cargo Base Maxi 1.4 T-JET Natu Power CNG 4P</version>
@@ -3401,7 +3401,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0707171915602</id>
     <matricula>7994LKZ</matricula>
-    <bastidor/>
+    <bastidor>NMTBZ3BE40R064790</bastidor>
     <marca>Toyota</marca>
     <modelo>Corolla</modelo>
     <version>Toyota Corolla 1.8 125H Hybrid Active TECH E-CVT Sedan</version>
@@ -3496,7 +3496,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0207161545845</id>
     <matricula>1079LHT</matricula>
-    <bastidor/>
+    <bastidor>VSSZZZ5FZLR084721</bastidor>
     <marca>Seat</marca>
     <modelo>Leon</modelo>
     <version>Seat Leon 1.5 EcoTGI 110kW DSG-7 S&amp;S Xcellence</version>
@@ -3727,7 +3727,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2306161344545</id>
     <matricula>9576LWB</matricula>
-    <bastidor/>
+    <bastidor>WF0SXXWPGSNL39022</bastidor>
     <marca>Ford</marca>
     <modelo>Transit Connect</modelo>
     <version>Ford Transit Connect 3Plazas 1.5EcoBlueTrend 240 L2 4 Puertas 100Cv 6 Velocidades Etiqueta medioambiental C</version>
@@ -4002,7 +4002,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1706115213879</id>
     <matricula>0198LXP</matricula>
-    <bastidor>VR7EFYHT2NJ615592VR7EDFYHYCMJ577157</bastidor>
+    <bastidor>VR7EFYHT2NJ615592</bastidor>
     <marca>Citroen</marca>
     <modelo>Berlingo</modelo>
     <version>Citroen Berlingo Premium XL 1.5 BlueHDi 100Cv Etiqueta C IVA Garantía Incl Nacional</version>
@@ -4109,112 +4109,6 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
       <foto orden="23">https://midcar.azureedge.net/vehiculos/1706115213879/Citroen%20Berlingo%20XL%201.5BlueHdi%20100Cv%203Plazas%20IVA%20Inc23%20Luces%20automaticas%20control%20velocidad-18062026175650345-1500px.jpg</foto>
       <foto orden="24">https://midcar.azureedge.net/vehiculos/1706115213879/Citroen%20Berlingo%20XL%201.5BlueHdi%20100Cv%203Plazas%20IVA%20Inc24%20mandos%20radio-18062026175650399-1500px.jpg</foto>
       <foto orden="25">https://midcar.azureedge.net/vehiculos/1706115213879/Citroen%20Berlingo%20XL%201.5BlueHdi%20100Cv%203Plazas%20IVA%20Inc26%20Libro%20mantenimiento-18062026175650447-1500px.jpg</foto>
-    </fotos>
-  </vehiculo>
-  <vehiculo>
-    <id>1706113441218</id>
-    <matricula>2096LHY</matricula>
-    <bastidor/>
-    <marca>Volkswagen</marca>
-    <modelo>Caddy</modelo>
-    <version>Volkswagen Caddy Kombi 1.4 TGI GNC 110Cv Etiqueta ECO IVA y garantía Inc Nacional Pocos km</version>
-    <anio>2020</anio>
-    <mes_matriculacion>10</mes_matriculacion>
-    <km>51000</km>
-    <precio>17950</precio>
-    <precio_anterior>0</precio_anterior>
-    <iva_deducible>true</iva_deducible>
-    <combustible>Gas</combustible>
-    <cambio>Manual</cambio>
-    <potencia_cv>110</potencia_cv>
-    <puertas>5</puertas>
-    <plazas>5</plazas>
-    <color>Blanco</color>
-    <etiqueta_dgt>ECO</etiqueta_dgt>
-    <garantia_meses>12</garantia_meses>
-    <cuota_mes>352</cuota_mes>
-    <meses_financiacion>72</meses_financiacion>
-    <reservado>false</reservado>
-    <concesionario>torrejon-de-ardoz</concesionario>
-    <url>https://www.midcar.net/volkswagen-caddy-kombi-14-tgi-gnc-110cv-etiqueta-eco-iva-y-garantia-inc-nacional-pocos-km-2020-1706113441218</url>
-    <equipamiento>
-      <item>Entrega inmediata</item>
-      <item>Vehículo nacional</item>
-      <item>Kilómetros certificados</item>
-      <item>Historial de mantenimiento</item>
-      <item>Vehículo revisado</item>
-      <item>Único propietario</item>
-      <item>Garantia 1 año</item>
-      <item>Informe CARFAX disponible</item>
-    </equipamiento>
-    <descripcion>Volkswagen Caddy Kombi 1.4 TGI GNC 110Cv es un vehículo versátil, ideal para quienes necesitan una furgoneta de trabajo práctica con espacio para pasajeros. Con etiqueta medioambiental ECO y revisión de las bombonas recién hecha, disfrutarás de un consumo reducido, acceso sin restricciones a las ciudades y la fiabilidad de Volkswagen.
-
-Con 51.000 km certificados por escrito, historial de mantenimiento al día y procedencia nacional de único propietario, este Caddy ofrece la combinación perfecta de economía, funcionalidad y comodidad.
-
-Características principales:
-Motor 1.4 TGI GNC 110Cv
-Cambio manual 6 velocidades
-Carrocería Kombi 
-Etiqueta medioambiental ECO
-Año de matriculación: 28/07/2020
-Kilometraje: 51.000 km certificados por escrito
-Historial de mantenimiento al día
-ÚNICO propietario – procedencia nacional
-
-Equipamiento destacado:
- Puerta lateral
-Dirección asistida
-Elevalunas eléctricos
-Radio CD MP3
-Retrovisores eléctricos 
-Cierre centralizado con mando
-Control de velocidad
-Climatizador Climatronic
-
-Ventajas incluidas:
-Garantía mecánica de 12 meses
-IVA incluido en el precio
-Cambio de nombre incluido
-Impuestos de este año incluidos
-Financiación hasta el 100% sin entrada (con tan solo la última nómina)
-Tasamos su vehículo como parte de pago
-
-Horario de atención:
-Lunes a Viernes: 09:00h – 14:00h / 15:30h – 20:00h
-Vierner: 09:00h – 14:00h / 15:30h – 17:00h
-Sábados: Cerrado
-Domingos: 11:00 – 14:00
-
-
-
-Nota legal:
-Si han visto algún error, rogamos nos avisen.
-Este anuncio no es vinculante, puede contener errores y se muestra a título informativo, no contractual.
-
-En MID CAR no solo vendemos vehículos.
-Ofrecemos confianza, transparencia y un servicio integral, para que la compra de su Volkswagen Caddy Kombi sea tan satisfactoria como disfrutarla en su día a día laboral.</descripcion>
-    <fotos>
-      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO1-03072026182212507-1500px.jpg</foto>
-      <foto orden="2">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO2-03072026182212600-1500px.jpg</foto>
-      <foto orden="3">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO3-03072026182212656-1500px.jpg</foto>
-      <foto orden="4">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO4-03072026182212707-1500px.jpg</foto>
-      <foto orden="5">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO5-03072026182212754-1500px.jpg</foto>
-      <foto orden="6">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO6-03072026182212803-1500px.jpg</foto>
-      <foto orden="7">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO7-03072026182212849-1500px.jpg</foto>
-      <foto orden="8">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO8-03072026182212893-1500px.jpg</foto>
-      <foto orden="9">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO9-03072026182212937-1500px.jpg</foto>
-      <foto orden="10">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO10-03072026182212992-1500px.jpg</foto>
-      <foto orden="11">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO11-03072026182213041-1500px.jpg</foto>
-      <foto orden="12">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO12-03072026182213084-1500px.jpg</foto>
-      <foto orden="13">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO13-03072026182213125-1500px.jpg</foto>
-      <foto orden="14">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO14-03072026182213176-1500px.jpg</foto>
-      <foto orden="15">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO15-03072026182213215-1500px.jpg</foto>
-      <foto orden="16">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO16-03072026182213262-1500px.jpg</foto>
-      <foto orden="17">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO17-03072026182213309-1500px.jpg</foto>
-      <foto orden="18">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO18-03072026182213368-1500px.jpg</foto>
-      <foto orden="19">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO19-03072026182213421-1500px.jpg</foto>
-      <foto orden="20">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO20-03072026182213492-1500px.jpg</foto>
-      <foto orden="21">https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO21-03072026182213537-1500px.jpg</foto>
     </fotos>
   </vehiculo>
   <vehiculo>
@@ -4422,7 +4316,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1006155914258</id>
     <matricula>6915LJY</matricula>
-    <bastidor/>
+    <bastidor>WV1ZZZ2KZLX010176</bastidor>
     <marca>Volkswagen</marca>
     <modelo>Caddy</modelo>
     <version>Vw Caddy 1.4TGI GNC Hybrid Etiqueta ECO 110Cv IVA y Garantía Incl Nacional</version>
@@ -4512,120 +4406,6 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
       <foto orden="19">https://midcar.azureedge.net/vehiculos/1006155914258/Vw%20Caddy%201.4TGI%20110Cv%20Etiqueta%20ECO21-10062026155915432-1500px.jpg</foto>
       <foto orden="20">https://midcar.azureedge.net/vehiculos/1006155914258/Vw%20Caddy%201.4TGI%20110Cv%20Etiqueta%20ECO22-10062026155915473-1500px.jpg</foto>
       <foto orden="21">https://midcar.azureedge.net/vehiculos/1006155914258/Vw%20Caddy%201.4TGI%20110Cv%20Etiqueta%20ECO23-10062026155915545-1500px.jpg</foto>
-    </fotos>
-  </vehiculo>
-  <vehiculo>
-    <id>0906100517322</id>
-    <matricula>4275LVM</matricula>
-    <bastidor/>
-    <marca>Peugeot</marca>
-    <modelo>Partner</modelo>
-    <version>Peugeot Partner L2 1.5BlueHdi Premium Long IVA y Garantía Inc Nacional</version>
-    <anio>2021</anio>
-    <mes_matriculacion>12</mes_matriculacion>
-    <km>80000</km>
-    <precio>16950</precio>
-    <precio_anterior>0</precio_anterior>
-    <iva_deducible>true</iva_deducible>
-    <combustible>Diesel</combustible>
-    <cambio>Manual</cambio>
-    <potencia_cv>100</potencia_cv>
-    <puertas>4</puertas>
-    <plazas>2</plazas>
-    <color>Blanco</color>
-    <etiqueta_dgt>C</etiqueta_dgt>
-    <garantia_meses>12</garantia_meses>
-    <cuota_mes>333</cuota_mes>
-    <meses_financiacion>72</meses_financiacion>
-    <reservado>false</reservado>
-    <concesionario>torrejon-de-ardoz</concesionario>
-    <url>https://www.midcar.net/peugeot-partner-l2-15bluehdi-premium-long-iva-y-garantia-inc-nacional-2021-0906100517322</url>
-    <equipamiento>
-      <item>Entrega inmediata</item>
-      <item>Vehículo nacional</item>
-      <item>Kilómetros certificados</item>
-      <item>Historial de mantenimiento</item>
-      <item>Vehículo revisado</item>
-      <item>Único propietario</item>
-      <item>Garantia 1 año</item>
-      <item>Informe CARFAX disponible</item>
-    </equipamiento>
-    <descripcion>Peugeot Partner Premium Long 1.5 BlueHDi 100Cv es una furgoneta diseñada para ofrecer practicidad, eficiencia y comodidad, un motor fiable y etiqueta medioambiental C, es la solución ideal para autónomos y empresas que necesitan un vehículo ágil en ciudad y útil en carretera.
-
-Con 80.000 km certificados por escrito, historial de mantenimiento al día y procedencia nacional de único propietario, está lista para rendir desde el primer kilómetro.
-
-Características principales:
-Motor 1.5 BlueHDi 100Cv
-Etiqueta medioambiental C
-Año de matriculación: 22/12/2021
-Kilometraje: 80.000 km certificados por escrito
-Historial de mantenimiento al día,
-ÚNICO propietario – procedencia nacional
-
-Equipamiento destacado:
-
-Aire acondicionado
-Dirección asistida
-Elevalunas eléctricos
-Freno mano electrico
-Radio CD MP3 con Bluetooth
-Control y limitador de velocidad
-Luces automáticas
-Retrovisores eléctricos
-Cierre centralizado con mando
-Volante multifunción
-
-Ventajas incluidas:
-Garantía mecánica de 12 meses
-IVA incluido en el precio
-Financiación hasta el 100% sin entrada (con tan solo la última nómina)
-Tasamos su vehículo como parte de pago
-
-Horario de atención:
-Lunes a Jueves: 09:00 – 14:00 / 15:30 – 20:00
-Viernes: 09:00 – 14:00 / 15:30 – 18:00
-Sábados: Cerrado
-Domingos: 11:00 – 14:00 con cita previa,
-
-
-
-Nota legal:
-Si han visto algún error, rogamos nos avisen.
-Este anuncio no es vinculante, puede contener errores y se muestra a título informativo, no contractual.
-
-En MID CAR no solo vendemos vehículos.
-Ofrecemos confianza, transparencia y un servicio integral, para que la compra de su Peugeot Partner Premium sea tan satisfactoria como disfrutarla en su día a día laboral.</descripcion>
-    <fotos>
-      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc1-12062026082127942-1500px.jpg</foto>
-      <foto orden="2">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc1-12062026084940597-1500px.jpg</foto>
-      <foto orden="3">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc2-12062026084940697-1500px.jpg</foto>
-      <foto orden="4">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc3-12062026084940757-1500px.jpg</foto>
-      <foto orden="5">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc4-12062026084940812-1500px.jpg</foto>
-      <foto orden="6">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc5-12062026084940873-1500px.jpg</foto>
-      <foto orden="7">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc6-12062026084940944-1500px.jpg</foto>
-      <foto orden="8">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc7-12062026084940994-1500px.jpg</foto>
-      <foto orden="9">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc8-12062026084941045-1500px.jpg</foto>
-      <foto orden="10">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc9-12062026084941118-1500px.jpg</foto>
-      <foto orden="11">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc10-12062026084941177-1500px.jpg</foto>
-      <foto orden="12">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc11-12062026084941234-1500px.jpg</foto>
-      <foto orden="13">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc12-12062026084941393-1500px.jpg</foto>
-      <foto orden="14">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc13-12062026084941439-1500px.jpg</foto>
-      <foto orden="15">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc14%20Informe%20Carfax-12062026084941485-1500px.jpg</foto>
-      <foto orden="16">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc14%20Nacional-12062026084941534-1500px.jpg</foto>
-      <foto orden="17">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc15%20Unico%20Due%C3%B1o-12062026084941601-1500px.jpg</foto>
-      <foto orden="18">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc16velocidades-12062026084941660-1500px.jpg</foto>
-      <foto orden="19">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc17%20Freno%20mano%20electrico-12062026084941704-1500px.jpg</foto>
-      <foto orden="20">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc18%20Appel%20Car%20Play-12062026084941762-1500px.jpg</foto>
-      <foto orden="21">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc19%20Pocos%20Km-12062026084941812-1500px.jpg</foto>
-      <foto orden="22">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc20%20Estanterias-12062026084941857-1500px.jpg</foto>
-      <foto orden="23">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc21-12062026084941900-1500px.jpg</foto>
-      <foto orden="24">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc22-12062026084941942-1500px.jpg</foto>
-      <foto orden="25">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc23-12062026084941994-1500px.jpg</foto>
-      <foto orden="26">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc24-12062026084942040-1500px.jpg</foto>
-      <foto orden="27">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc25-12062026084942096-1500px.jpg</foto>
-      <foto orden="28">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc26-12062026084942144-1500px.jpg</foto>
-      <foto orden="29">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc27-12062026084942197-1500px.jpg</foto>
-      <foto orden="30">https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc28-12062026084942252-1500px.jpg</foto>
     </fotos>
   </vehiculo>
   <vehiculo>
@@ -4735,7 +4515,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>3105172907028</id>
     <matricula>8039LHW</matricula>
-    <bastidor/>
+    <bastidor>VF3YDBNCU12N78352</bastidor>
     <marca>Peugeot</marca>
     <modelo>Boxer</modelo>
     <version>Peugeot Boxer 2.2BlueHdi 3.5T L3 Heavy 140Cv Cabina IVA y garantía Etiqueta C</version>
@@ -4845,7 +4625,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2805095808659</id>
     <matricula>4782LLC</matricula>
-    <bastidor/>
+    <bastidor>WV1ZZZ7HZMH011144</bastidor>
     <marca>Volkswagen</marca>
     <modelo>Transporter</modelo>
     <version>Vw Transporter 2.0Tdi 150Cv 4Motion Etiqueta C IVA y Garantía Inc Nacional</version>
@@ -4939,7 +4719,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2605091638612</id>
     <matricula>3011MNJ</matricula>
-    <bastidor/>
+    <bastidor>WV2ZZZSK7RX052425</bastidor>
     <marca>Volkswagen</marca>
     <modelo>Caddy</modelo>
     <version>Volkswagen Caddy Monovolumen Compacto Origin 2.0 TDI 102Cv</version>
@@ -5039,7 +4819,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1205155439422</id>
     <matricula>9224LGS</matricula>
-    <bastidor/>
+    <bastidor>VF3LHEHZRLS107203</bastidor>
     <marca>Peugeot</marca>
     <modelo>308</modelo>
     <version>Peugeot 308 GT-Line 2.0BlueHDi Auto S&amp;S EAT8 180Cv IVA y Garantía Inc Nacional</version>
@@ -5163,7 +4943,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>1205154318673</id>
     <matricula>8241LWK</matricula>
-    <bastidor/>
+    <bastidor>VSSZZZKLZNR040387</bastidor>
     <marca>Seat</marca>
     <modelo>Leon</modelo>
     <version>Seat Nuevo Leon SP 2.0Tdi 150Cv DSG Style Go IVA y Garantía Inc nacional</version>
@@ -5495,7 +5275,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0805064737296</id>
     <matricula>1691LBR</matricula>
-    <bastidor/>
+    <bastidor>VF1ML000463770622</bastidor>
     <marca>Renault</marca>
     <modelo>Master</modelo>
     <version>Renault Master 2.3dCi v Combi S&amp;S Energy L2h2 3500 Dci 140cv E6 IVA y Garantía Incl Etiqueta C</version>
@@ -5584,7 +5364,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0705095533133</id>
     <matricula>3843LBH</matricula>
-    <bastidor/>
+    <bastidor>UU18SDXV563046472</bastidor>
     <marca>Dacia</marca>
     <modelo>Dokker</modelo>
     <version>Dacia Dokker Van Essential 1.6 110Cv GLP Híbrido IVA y Garantía Incl Nacional</version>
@@ -5884,7 +5664,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2004153942557</id>
     <matricula>8506LWR</matricula>
-    <bastidor/>
+    <bastidor>VR3EFYHT2NN510059</bastidor>
     <marca>Peugeot</marca>
     <modelo>Partner</modelo>
     <version>Peugeot Partner Premium 1.5 BlueHDi 100Cv IVA y garantía Inc Etiqueta C Nacional Historial mantenimiento</version>
@@ -6558,7 +6338,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>1503103305592</id>
     <matricula>7177LVG</matricula>
-    <bastidor/>
+    <bastidor>VR3EFYHT2MN558711</bastidor>
     <marca>Peugeot</marca>
     <modelo>Partner</modelo>
     <version>Peugeot Partner Premium 1.5 BlueHDi 100Cv IVA y Garantía Incl Etiqueta C</version>
@@ -6862,7 +6642,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>0303160658760</id>
     <matricula>9959LXS</matricula>
-    <bastidor/>
+    <bastidor>KMHC751DGNU283825</bastidor>
     <marca>Hyundai</marca>
     <modelo>iONIQ</modelo>
     <version>HYUNDAI IONIQ 1.6GDI HEV Tecno DCT Hybrido Enchufable y Gasolina</version>
@@ -7542,7 +7322,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>2412110426152</id>
     <matricula>1693LBR</matricula>
-    <bastidor/>
+    <bastidor>VFML000463770619</bastidor>
     <marca>Renault</marca>
     <modelo>Master</modelo>
     <version>Renault Master 2.3dCi Combi 9 Plazas S&amp;S Energy L2h2 3500 Dci 140cv E6 IVA y Garantía Incl Etiqueta C</version>
@@ -7633,7 +7413,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
   <vehiculo>
     <id>2412104143698</id>
     <matricula>2525LSC</matricula>
-    <bastidor/>
+    <bastidor>VF3LBYHZKMS084302</bastidor>
     <marca>Peugeot</marca>
     <modelo>308</modelo>
     <version>Peugeot 308 Allure BlueHDi Auto S&amp;S EAT8 130Cv Etiqueta medioambiental C IVA y Garantía Inc Nacional</version>
@@ -7856,7 +7636,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>1111180056441</id>
     <matricula>1170LDW</matricula>
-    <bastidor/>
+    <bastidor>VR3EFYHYCKN573427</bastidor>
     <marca>Peugeot</marca>
     <modelo>Partner</modelo>
     <version>Peugeot Partner Premium 1.6 BlueHDi 100Cv Etiqueta C IVA y Garantía Incl 3 Plazas</version>
@@ -8293,131 +8073,6 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     </fotos>
   </vehiculo>
   <vehiculo>
-    <id>0608144136697</id>
-    <matricula>4176LGZ</matricula>
-    <bastidor>VR7ECYHYCLN521356</bastidor>
-    <marca>Citroen</marca>
-    <modelo>Berlingo</modelo>
-    <version>Citroen Berlingo Talla M 1.5 BlueHDi 100 S&amp;S FEEL monovolumen IVA y Garantía Inc Etiqueta Medioambiental C</version>
-    <anio>2020</anio>
-    <mes_matriculacion>8</mes_matriculacion>
-    <km>72000</km>
-    <precio>17950</precio>
-    <precio_anterior>0</precio_anterior>
-    <iva_deducible>true</iva_deducible>
-    <combustible>Diesel</combustible>
-    <cambio>Manual</cambio>
-    <potencia_cv>100</potencia_cv>
-    <puertas>5</puertas>
-    <plazas>5</plazas>
-    <color>Blanco</color>
-    <etiqueta_dgt>C</etiqueta_dgt>
-    <garantia_meses>12</garantia_meses>
-    <cuota_mes>352</cuota_mes>
-    <meses_financiacion>72</meses_financiacion>
-    <reservado>false</reservado>
-    <concesionario>torrejon-de-ardoz</concesionario>
-    <url>https://www.midcar.net/citroen-berlingo-talla-m-15-bluehdi-100-s26s-feel-monovolumen-iva-y-garantia-inc-etiqueta-medioambiental-c-2020-0608144136697</url>
-    <equipamiento>
-      <item>Entrega inmediata</item>
-      <item>Vehículo nacional</item>
-      <item>Kilómetros certificados</item>
-      <item>Historial de mantenimiento</item>
-      <item>Vehículo revisado</item>
-      <item>Único propietario</item>
-      <item>Garantia 1 año</item>
-      <item>Informe CARFAX disponible</item>
-    </equipamiento>
-    <descripcion>Esta Berlingo Talla M cambia el enfoque: aquí hablamos de un monovolumen de 5 plazas pensado para familia, ocio y uso diario. Tiene esa virtud de los coches que hacen la vida fácil: mucho espacio interior, puertas cómodas y una conducción tranquila. Ideal para quien necesita amplitud real sin meterse en un SUV grande ni en un vehículo complicado.
-La confianza de tener siempre a tu lado un vehículo que responde.
-
-La Citroën Berlingo Talla M 1.5 BlueHDi 100Cv FEEL matriculada en junio de 2020 es la aliada ideal tanto para el trabajo como para el día a día. Su motor diésel de 100 CV ofrece la combinación perfecta de rendimiento, eficiencia y fiabilidad, mientras que su diseño versátil y su equipamiento completo garantizan que cada trayecto sea cómodo y seguro.
-
-Con un único propietario, historial de mantenimiento certificado y procedencia nacional, esta Berlingo es sinónimo de tranquilidad y confianza en tu compra.
-
-Características principales:
-Motor 1.5 BlueHDi diésel de 100 CV
-Cambio manual
-Fecha de matriculación: 24/06/2020
-Kilometraje: 72.000 km certificados por escrito
-Etiqueta medioambiental C
-
-Equipamiento destacado:
-Pantalla táctil
-Doble puerta lateral
-Aire acondicionado
-Airbag copiloto
-Dirección asistida
-Elevalunas eléctricos
-Radio CD MP3 con Bluetooth
-Control y limitador de velocidad
-Luces automáticas
-Retrovisores eléctricos
-Cierre centralizado con mando
-Volante multifunción
-Alumbrado de acompañamiento y acogida
-Active Safety Brake
-Alerta de atención al conductor
-Lectura de recomendación de velocidad
-Sensores de aparcamiento
-
-Ventajas incluidas:
-12 meses de garantía mecánica
-IVA incluido en el precio
-Financiación hasta el 100% sin entrada (con última nómina)
-Tasación de su vehículo como parte de pago
-
-Horario de atención:
-Lunes a Viernes: 09:00 – 14:00 / 15:30 – 20:30
-Sábados: Cerrado
-Domingos: 11:00 – 14:00
-
-🌐 Más información en: www.midcar.net
-
-Nota legal:
-
-Si han visto algún error, rogamos nos avisen. Este anuncio no es vinculante, puede contener errores y se muestra a título informativo, no contractual.
-
-Nuestro compromiso:
-En MID CAR no solo vendemos vehículos.
-Ofrecemos confianza, transparencia y un servicio integral, para que la compra de su Citroën sea tan satisfactoria como disfrutarla en su día a día.</descripcion>
-    <fotos>
-      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164230624.Citroen%20Berlingo%20Talla%20M%201.5%20BlueHDi%20100%20S&amp;S%20FEEL%20monovolumen%20IVA%20y%20Garant%C3%ADa%20Inc%20Etiqueta%20Medioambiental%20C-14082025172054379-1500px.jpg</foto>
-      <foto orden="2">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164303610.Citroen%20Berlingo%20Talla%20M%201.5%20BlueHDi%20%20C-14082025172054470-1500px.jpg</foto>
-      <foto orden="3">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164423330.Citroen%20Berlingo%20Talla%201.5%20BlueHDi%20Nacional%20unico%20due%C3%B1o-14082025172054538-1500px.jpg</foto>
-      <foto orden="4">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164534680-14082025172054594-1500px.jpg</foto>
-      <foto orden="5">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164550809-14082025172054640-1500px.jpg</foto>
-      <foto orden="6">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164617480.PORTRAIT-14082025172054681-1500px.jpg</foto>
-      <foto orden="7">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164627457-14082025172054722-1500px.jpg</foto>
-      <foto orden="8">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164644428-14082025172054764-1500px.jpg</foto>
-      <foto orden="9">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164706460.PORTRAIT.ORIGINAL-14082025172054805-1500px.jpg</foto>
-      <foto orden="10">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164719890.PORTRAIT-14082025172054859-1500px.jpg</foto>
-      <foto orden="11">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164725334.PORTRAIT-14082025172054900-1500px.jpg</foto>
-      <foto orden="12">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164731398.PORTRAIT-14082025172054942-1500px.jpg</foto>
-      <foto orden="13">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164754468.PORTRAIT-14082025172055010-1500px.jpg</foto>
-      <foto orden="14">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164811940.PORTRAIT-14082025172055061-1500px.jpg</foto>
-      <foto orden="15">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164816816.PORTRAIT.ORIGINAL-14082025172055106-1500px.jpg</foto>
-      <foto orden="16">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164823046.PORTRAIT-14082025172055150-1500px.jpg</foto>
-      <foto orden="17">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164828853.PORTRAIT-14082025172055192-1500px.jpg</foto>
-      <foto orden="18">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164848980.PORTRAIT-14082025172055247-1500px.jpg</foto>
-      <foto orden="19">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164949749.PORTRAIT-14082025172055279-1500px.jpg</foto>
-      <foto orden="20">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165001208.PORTRAIT-14082025172055313-1500px.jpg</foto>
-      <foto orden="21">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165012221.PORTRAIT-14082025172055353-1500px.jpg</foto>
-      <foto orden="22">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165020041.PORTRAIT-14082025172055398-1500px.jpg</foto>
-      <foto orden="23">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165035061.PORTRAIT-14082025172055445-1500px.jpg</foto>
-      <foto orden="24">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165041089.PORTRAIT-14082025172055489-1500px.jpg</foto>
-      <foto orden="25">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165632240.PORTRAIT.ORIGINAL-14082025172055531-1500px.jpg</foto>
-      <foto orden="26">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165636495.PORTRAIT-14082025172055569-1500px.jpg</foto>
-      <foto orden="27">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165646943.PORTRAIT-14082025172055604-1500px.jpg</foto>
-      <foto orden="28">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165653847.PORTRAIT-14082025172055642-1500px.jpg</foto>
-      <foto orden="29">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165707380.PORTRAIT-14082025172055680-1500px.jpg</foto>
-      <foto orden="30">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165751644.PORTRAIT-14082025172055718-1500px.jpg</foto>
-      <foto orden="31">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_165758030.PORTRAIT-14082025172055757-1500px.jpg</foto>
-      <foto orden="32">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_170134355-14082025172055806-1500px.jpg</foto>
-      <foto orden="33">https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_170157054-14082025172055850-1500px.jpg</foto>
-    </fotos>
-  </vehiculo>
-  <vehiculo>
     <id>1607165900588</id>
     <matricula>9562LKG</matricula>
     <bastidor/>
@@ -8750,7 +8405,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>2706223137043</id>
     <matricula>4533KWW</matricula>
-    <bastidor/>
+    <bastidor>VF3LCYHZSKS181539</bastidor>
     <marca>Peugeot</marca>
     <modelo>308</modelo>
     <version>Peugeot 308SW Style 1.5 BlueHDi 96KW (130CV) Auto</version>
@@ -8868,7 +8523,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>2706222633017</id>
     <matricula>4051LRM</matricula>
-    <bastidor/>
+    <bastidor>VF3LCYHZKMS137744</bastidor>
     <marca>Peugeot</marca>
     <modelo>308</modelo>
     <version>Peugeot 308SW Active Pack BlueHDi 130 S&amp;S EAT8</version>
@@ -8982,7 +8637,7 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
   <vehiculo>
     <id>2705145300282</id>
     <matricula>2183KVD</matricula>
-    <bastidor/>
+    <bastidor>VF3LBYHZPKS060971</bastidor>
     <marca>Peugeot</marca>
     <modelo>308</modelo>
     <version>Peugeot 308 1.5BlueHdi Style 130Cv Etiqueta Medioambiental C</version>

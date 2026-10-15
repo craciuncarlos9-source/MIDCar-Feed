@@ -1,6 +1,6 @@
 {
  "actualizado": true,
- "total": 92,
+ "total": 89,
  "vehiculos": [
   {
    "id": "1510153254513",
@@ -1283,38 +1283,6 @@
    "foto": "https://midcar.azureedge.net/vehiculos/1706115213879/Citroen%20Berlingo%20XL%201.5BlueHdi%20100Cv%203Plazas%20IVA%20Inc1%20Larga%20L-18062026175649238-1500px.jpg"
   },
   {
-   "id": "1706113441218",
-   "vehiculo": "Volkswagen Caddy Kombi 1.4 TGI GNC 110Cv Etiqueta ECO IVA y garantía Inc Nacional Pocos km",
-   "marca": "Volkswagen",
-   "modelo": "Caddy",
-   "anio": 2020,
-   "km": 51000,
-   "precio_eur": 17950,
-   "cuota_mes_eur": 352,
-   "meses_financiacion": 72,
-   "combustible": "Gas",
-   "cambio": "Manual",
-   "potencia_cv": 110,
-   "etiqueta_dgt": "ECO",
-   "plazas": 5,
-   "puertas": 5,
-   "color": "Blanco",
-   "iva_deducible": true,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Entrega inmediata",
-    "Vehículo nacional",
-    "Kilómetros certificados",
-    "Historial de mantenimiento",
-    "Vehículo revisado",
-    "Único propietario",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/volkswagen-caddy-kombi-14-tgi-gnc-110cv-etiqueta-eco-iva-y-garantia-inc-nacional-pocos-km-2020-1706113441218",
-   "foto": "https://midcar.azureedge.net/vehiculos/1706113441218/Vw%20Caddy%20Kombi%201.4TGI%20GNC%205%20Plazas%20110Cv%20IVA%20Garant%C3%ADa%20Inc%20Etiqueta%20ECO1-03072026182212507-1500px.jpg"
-  },
-  {
    "id": "1106173433213",
    "vehiculo": "Ford Transit Connect 3Plazas Automatica 1.5EcoBlue 120Cv Etiqueta C IVA y Garantia Inc",
    "marca": "Ford",
@@ -1409,38 +1377,6 @@
    ],
    "url": "https://www.midcar.net/vw-caddy-14tgi-gnc-hybrid-etiqueta-eco-110cv-iva-y-garantia-incl-nacional-2020-1006155914258",
    "foto": "https://midcar.azureedge.net/vehiculos/1006155914258/Vw%20Caddy%201.4TGI%20110Cv%20Etiqueta%20ECO15-10062026155915171-1500px.jpg"
-  },
-  {
-   "id": "0906100517322",
-   "vehiculo": "Peugeot Partner L2 1.5BlueHdi Premium Long IVA y Garantía Inc Nacional",
-   "marca": "Peugeot",
-   "modelo": "Partner",
-   "anio": 2021,
-   "km": 80000,
-   "precio_eur": 16950,
-   "cuota_mes_eur": 333,
-   "meses_financiacion": 72,
-   "combustible": "Diesel",
-   "cambio": "Manual",
-   "potencia_cv": 100,
-   "etiqueta_dgt": "C",
-   "plazas": 2,
-   "puertas": 4,
-   "color": "Blanco",
-   "iva_deducible": true,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Entrega inmediata",
-    "Vehículo nacional",
-    "Kilómetros certificados",
-    "Historial de mantenimiento",
-    "Vehículo revisado",
-    "Único propietario",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/peugeot-partner-l2-15bluehdi-premium-long-iva-y-garantia-inc-nacional-2021-0906100517322",
-   "foto": "https://midcar.azureedge.net/vehiculos/0906100517322/Peugeot%20Partner%20Larga%20Premium%201.5BlueHdi%20100%20L2%20IVA%20y%20Garant%C3%ADa%20Inc1-12062026082127942-1500px.jpg"
   },
   {
    "id": "0306203534086",
@@ -2561,38 +2497,6 @@
    ],
    "url": "https://www.midcar.net/ford-transit-l4h3-van-trend-rwd-170cv-nacional-iva-y-garantia-incl-etiqueta-c-2024-1310173908369",
    "foto": "https://midcar.azureedge.net/vehiculos/1310173908369/Ford%20Transit%20L4H3%20Van%20Trend%20RWD%20170Cv%20Nacional%20IVA%20y%20Garant%C3%ADa%20Incl%20Etiqueta%20C%201-08012026205800263-1500px.jpg"
-  },
-  {
-   "id": "0608144136697",
-   "vehiculo": "Citroen Berlingo Talla M 1.5 BlueHDi 100 S&S FEEL monovolumen IVA y Garantía Inc Etiqueta Medioambiental C",
-   "marca": "Citroen",
-   "modelo": "Berlingo",
-   "anio": 2020,
-   "km": 72000,
-   "precio_eur": 17950,
-   "cuota_mes_eur": 352,
-   "meses_financiacion": 72,
-   "combustible": "Diesel",
-   "cambio": "Manual",
-   "potencia_cv": 100,
-   "etiqueta_dgt": "C",
-   "plazas": 5,
-   "puertas": 5,
-   "color": "Blanco",
-   "iva_deducible": true,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Entrega inmediata",
-    "Vehículo nacional",
-    "Kilómetros certificados",
-    "Historial de mantenimiento",
-    "Vehículo revisado",
-    "Único propietario",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/citroen-berlingo-talla-m-15-bluehdi-100-s26s-feel-monovolumen-iva-y-garantia-inc-etiqueta-medioambiental-c-2020-0608144136697",
-   "foto": "https://midcar.azureedge.net/vehiculos/0608144136697/(FILEminimizer)%20PXL_20250814_164230624.Citroen%20Berlingo%20Talla%20M%201.5%20BlueHDi%20100%20S&S%20FEEL%20monovolumen%20IVA%20y%20Garant%C3%ADa%20Inc%20Etiqueta%20Medioambiental%20C-14082025172054379-1500px.jpg"
   },
   {
    "id": "1607165900588",
