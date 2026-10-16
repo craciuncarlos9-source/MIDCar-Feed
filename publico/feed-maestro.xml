@@ -1,5 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-10-16T08:31:30+00:00" concesionario="MID Car Soluciones S.L." total="89">
+<stock generado="2026-10-16T12:36:21+00:00" concesionario="MID Car Soluciones S.L." total="90">
+  <vehiculo>
+    <id>1610113720131</id>
+    <matricula>5580LNM</matricula>
+    <bastidor/>
+    <marca>Ford</marca>
+    <modelo>Custom</modelo>
+    <version>Ford Custom Van 2.0 TDCI 280 L2 MHEV Trend</version>
+    <anio>2021</anio>
+    <mes_matriculacion>3</mes_matriculacion>
+    <km>141000</km>
+    <precio>18948</precio>
+    <precio_anterior>0</precio_anterior>
+    <iva_deducible>true</iva_deducible>
+    <combustible>Híbrido</combustible>
+    <cambio>Manual</cambio>
+    <potencia_cv>130</potencia_cv>
+    <puertas>5</puertas>
+    <plazas>3</plazas>
+    <color>Blanco</color>
+    <etiqueta_dgt>ECO</etiqueta_dgt>
+    <garantia_meses>12</garantia_meses>
+    <cuota_mes>372</cuota_mes>
+    <meses_financiacion>72</meses_financiacion>
+    <reservado>false</reservado>
+    <concesionario>torrejon-de-ardoz</concesionario>
+    <url>https://www.midcar.net/ford-custom-van-20-tdci-280-l2-mhev-trend-2021-1610113720131</url>
+    <equipamiento>
+      <item>Entrega inmediata</item>
+      <item>Vehículo nacional</item>
+      <item>Kilómetros certificados</item>
+      <item>Historial de mantenimiento</item>
+      <item>Vehículo revisado</item>
+      <item>Único propietario</item>
+      <item>Garantia 1 año</item>
+      <item>Informe CARFAX disponible</item>
+    </equipamiento>
+    <descripcion>Ford Transit Custom Van 2.0 TDCI 340 L2 MHEV Trend, Tracción delantera, 130Cv Etiqueta medioambiental ECO, del 24/06/2022 con 215.708 kilómetros certificados por escrito con historial de mantenimiento al día.
+
+Equipamiento:
+
+- Airbag del Pasajero activo
+- Asistente de pre-colosión
+- Sistema mantenimiento de carril
+- Driver Alert
+- Alarma perimétrica
+- Luces LED en compartimento de carga
+- Paquete control de crucero adaptativo
+- Radio SYNC3 + TFT de 8&quot; con Navegador y FordPass Connect
+- Toma de corriente delantera 230V
+- Control velocidad adaptivo
+- Retrovisores abatibles automáticos,
+- Luces automáticas y larga auto
+- Sensores de aparcamiento
+- Puerta Lateral,
+- Control tracción
+- Aire acondicionado
+- Arranque en pendiente
+- Elevalunas eléctricos
+- Ordenador a bordo
+- My Ford Dock
+- Autoradio Cd con MP3 , usb box
+- ESP
+- Indicador de marchas
+- Cierre centralizado con mando
+- Faros antiniebla
+
+Garantía mecánica de 12 meses e IVA incluido + Cambio de nombre incluido en el precio e Impuestos de este año.
+
+Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
+
+Tasamos su vehículo como parte de pago.
+
+Horario de Apertura: Lunes – Viernes: 9:00h a 14:00h – 15:30h a 20:00h
+Viernes; 9:00h a 14:00h – 15:30h a 17:00h
+Sábado Cerrado
+Domingo: 11:00h – 14:00h
+
+
+
+Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.</descripcion>
+    <fotos>
+      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062454757.PORTRAIT.ORIGINAL-16102026113720132-1500px.jpg</foto>
+      <foto orden="2">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062454757.PORTRAIT.ORIGINAL%20(FILEminimizer)-16102026113721193-1500px.jpg</foto>
+      <foto orden="3">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062506382.PORTRAIT.ORIGINAL%20(FILEminimizer)-16102026113721282-1500px.jpg</foto>
+      <foto orden="4">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062513552.PORTRAIT%20(FILEminimizer)-16102026113721328-1500px.jpg</foto>
+      <foto orden="5">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062524488.PORTRAIT%20(FILEminimizer)-16102026113721364-1500px.jpg</foto>
+      <foto orden="6">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062552505.PORTRAIT.ORIGINAL%20(FILEminimizer)-16102026113721403-1500px.jpg</foto>
+      <foto orden="7">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062608266.PORTRAIT.ORIGINAL%20(FILEminimizer)-16102026113721444-1500px.jpg</foto>
+      <foto orden="8">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062616107.PORTRAIT%20(FILEminimizer)-16102026113721484-1500px.jpg</foto>
+      <foto orden="9">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062627297.PORTRAIT%20(FILEminimizer)-16102026113721525-1500px.jpg</foto>
+      <foto orden="10">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062636859.PORTRAIT%20(FILEminimizer)-16102026113721565-1500px.jpg</foto>
+      <foto orden="11">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062645944.PORTRAIT%20(FILEminimizer)-16102026113721612-1500px.jpg</foto>
+      <foto orden="12">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062653664.PORTRAIT%20(FILEminimizer)-16102026113721666-1500px.jpg</foto>
+      <foto orden="13">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062659774.PORTRAIT%20(FILEminimizer)-16102026113721723-1500px.jpg</foto>
+      <foto orden="14">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062703906.PORTRAIT.ORIGINAL%20(FILEminimizer)-16102026113721773-1500px.jpg</foto>
+      <foto orden="15">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_062712823.PORTRAIT%20(FILEminimizer)-16102026113721817-1500px.jpg</foto>
+      <foto orden="16">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_063120672%20(FILEminimizer)-16102026113721857-1500px.jpg</foto>
+      <foto orden="17">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_063204620.PORTRAIT%20(FILEminimizer)-16102026113721899-1500px.jpg</foto>
+      <foto orden="18">https://midcar.azureedge.net/vehiculos/1610113720131/PXL_20260831_063645585.PORTRAIT%20(FILEminimizer)-16102026113721936-1500px.jpg</foto>
+    </fotos>
+  </vehiculo>
   <vehiculo>
     <id>1510153254513</id>
     <matricula>9990LWX</matricula>
