@@ -1,6 +1,6 @@
 {
  "actualizado": true,
- "total": 90,
+ "total": 89,
  "vehiculos": [
   {
    "id": "1610113720131",
@@ -2653,34 +2653,6 @@
    ],
    "url": "https://www.midcar.net/peugeot-308sw-style-15-bluehdi-96kw-130cv-auto-2019-2706223137043",
    "foto": "https://midcar.azureedge.net/vehiculos/2706223137043/PXL_20250204_074657581.Peugeot%20308Sw%20130Cv%20Style%20EAT%20Automatico-04022025215225078-1500px.jpg"
-  },
-  {
-   "id": "2706222633017",
-   "vehiculo": "Peugeot 308SW Active Pack BlueHDi 130 S&S EAT8",
-   "marca": "Peugeot",
-   "modelo": "308",
-   "anio": 2021,
-   "km": 154000,
-   "precio_eur": 12400,
-   "cuota_mes_eur": 243,
-   "meses_financiacion": 72,
-   "combustible": "Diesel",
-   "cambio": "Automático",
-   "potencia_cv": 130,
-   "etiqueta_dgt": "C",
-   "plazas": 5,
-   "puertas": 5,
-   "color": "Gris Artense (metalizado)",
-   "iva_deducible": true,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Único propietario",
-    "Historial de mantenimiento",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/peugeot-308sw-active-pack-bluehdi-130-s26s-eat8-2021-2706222633017",
-   "foto": "https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165434230.PORTRAIT.ORIGINAL~2-20112024174354288-1500px.jpg"
   },
   {
    "id": "2705145300282",

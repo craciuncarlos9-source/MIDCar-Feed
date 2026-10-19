@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-10-19T04:32:34+00:00" concesionario="MID Car Soluciones S.L." total="90">
+<stock generado="2026-10-19T08:38:23+00:00" concesionario="MID Car Soluciones S.L." total="89">
   <vehiculo>
     <id>1610113720131</id>
     <matricula>5580LNM</matricula>
@@ -8619,120 +8619,6 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
       <foto orden="28">https://midcar.azureedge.net/vehiculos/2706223137043/PXL_20250204_075748646.PORTRAIT%20(FILEminimizer)-04022025215243838-1500px.jpg</foto>
       <foto orden="29">https://midcar.azureedge.net/vehiculos/2706223137043/PXL_20250204_075754061.PORTRAIT%20(FILEminimizer)-04022025215243882-1500px.jpg</foto>
       <foto orden="30">https://midcar.azureedge.net/vehiculos/2706223137043/PXL_20250204_075841081.PORTRAIT.ORIGINAL%20(FILEminimizer)-04022025215243942-1500px.jpg</foto>
-    </fotos>
-  </vehiculo>
-  <vehiculo>
-    <id>2706222633017</id>
-    <matricula>4051LRM</matricula>
-    <bastidor>VF3LCYHZKMS137744</bastidor>
-    <marca>Peugeot</marca>
-    <modelo>308</modelo>
-    <version>Peugeot 308SW Active Pack BlueHDi 130 S&amp;S EAT8</version>
-    <anio>2021</anio>
-    <mes_matriculacion>6</mes_matriculacion>
-    <km>154000</km>
-    <precio>12400</precio>
-    <precio_anterior>13950</precio_anterior>
-    <iva_deducible>true</iva_deducible>
-    <combustible>Diesel</combustible>
-    <cambio>Automático</cambio>
-    <potencia_cv>130</potencia_cv>
-    <puertas>5</puertas>
-    <plazas>5</plazas>
-    <color>Gris Artense (metalizado)</color>
-    <etiqueta_dgt>C</etiqueta_dgt>
-    <garantia_meses>12</garantia_meses>
-    <cuota_mes>243</cuota_mes>
-    <meses_financiacion>72</meses_financiacion>
-    <reservado>false</reservado>
-    <concesionario>torrejon-de-ardoz</concesionario>
-    <url>https://www.midcar.net/peugeot-308sw-active-pack-bluehdi-130-s26s-eat8-2021-2706222633017</url>
-    <equipamiento>
-      <item>Único propietario</item>
-      <item>Historial de mantenimiento</item>
-      <item>Garantia 1 año</item>
-      <item>Informe CARFAX disponible</item>
-    </equipamiento>
-    <descripcion>La familiar práctica y tecnológica que necesitas.
-
-El Peugeot 308SW Active Pack 1.5 BlueHDi 130Cv automático EAT8 combina espacio, comodidad y eficiencia en un diseño moderno y elegante. Con etiqueta medioambiental C y un completo equipamiento tecnológico, es el coche ideal para quienes buscan una ranchera versátil para el día a día y viajes largos.
-
-Con 154.000 km certificados por escrito, historial de mantenimiento al día y procedencia nacional de único propietario, este vehículo ofrece fiabilidad y confianza desde el primer momento.
-
-Características principales:
-Motor 1.5 BlueHDi 130Cv S&amp;S
-Cambio automático EAT8
-Etiqueta medioambiental C
-Año de matriculación: 29/07/2021
-Kilometraje: 154.000 km certificados por escrito
-Historial de mantenimiento al día
-ÚNICO propietario – procedencia nacional
-
-Equipamiento destacado:
-Pantalla táctil con navegador en color
-Control y limitador de velocidad
-Luz diurna
-Climatizador
-Ordenador de a bordo
-Retrovisores eléctricos abatibles
-Sensores de aparcamiento delanteros y traseros
-Sensores de luz y lluvia
-Control de presión de neumáticos
-4 elevalunas eléctricos
-Mandos en volante
-Llantas de aleación
-Faros antiniebla
-Isofix trasero
-ESP
-
-Ventajas incluidas:
-Garantía mecánica de 12 meses
-IVA incluido en el precio
-Financiación hasta el 100% sin entrada (con tan solo la última nómina)
-Tasamos su vehículo como parte de pago
-
-Horario de atención:
-Lunes a Viernes: 09:00 – 14:00 / 15:30 – 20:30
-Sábados: Cerrado
-Domingos: 11:00 – 14:00
-
-Más información en: www.midcar.net
-
-Nota legal:
-Si han visto algún error, rogamos nos avisen.
-Este anuncio no es vinculante, puede contener errores y se muestra a título informativo, no contractual.
-
-En MID CAR no solo vendemos vehículos.
-Ofrecemos confianza, transparencia y un servicio integral, para que la compra de su Peugeot 308SW Active Pack sea tan satisfactoria como disfrutarlo en su día a día.</descripcion>
-    <fotos>
-      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165434230.PORTRAIT.ORIGINAL~2-20112024174354288-1500px.jpg</foto>
-      <foto orden="2">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165506721.PORTRAIT.ORIGINAL-20112024174354385-1500px.jpg</foto>
-      <foto orden="3">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165616889.PORTRAIT.ORIGINAL-20112024174354456-1500px.jpg</foto>
-      <foto orden="4">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165802838.MP-20112024174354530-1500px.jpg</foto>
-      <foto orden="5">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165810816.PORTRAIT-20112024174354614-1500px.jpg</foto>
-      <foto orden="6">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165913298.PORTRAIT-20112024174354652-1500px.jpg</foto>
-      <foto orden="7">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165923972.PORTRAIT-20112024174354693-1500px.jpg</foto>
-      <foto orden="8">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165941204.PORTRAIT-20112024174354731-1500px.jpg</foto>
-      <foto orden="9">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_165954369.PORTRAIT.ORIGINAL-20112024174354770-1500px.jpg</foto>
-      <foto orden="10">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170007352.PORTRAIT.ORIGINAL-20112024174354815-1500px.jpg</foto>
-      <foto orden="11">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170031523.PORTRAIT.ORIGINAL-20112024174354854-1500px.jpg</foto>
-      <foto orden="12">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170056215.PORTRAIT-20112024174354889-1500px.jpg</foto>
-      <foto orden="13">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170126256.PORTRAIT.ORIGINAL-20112024174354939-1500px.jpg</foto>
-      <foto orden="14">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170153103.PORTRAIT.ORIGINAL-20112024174354986-1500px.jpg</foto>
-      <foto orden="15">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170201427.PORTRAIT.ORIGINAL-20112024174355040-1500px.jpg</foto>
-      <foto orden="16">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170208228.PORTRAIT-20112024174355087-1500px.jpg</foto>
-      <foto orden="17">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170215055.PORTRAIT-20112024174355134-1500px.jpg</foto>
-      <foto orden="18">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170241183.PORTRAIT-20112024174355174-1500px.jpg</foto>
-      <foto orden="19">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170247610.PORTRAIT-20112024174355234-1500px.jpg</foto>
-      <foto orden="20">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170258033.PORTRAIT-20112024174355269-1500px.jpg</foto>
-      <foto orden="21">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170311251.PORTRAIT-20112024174355318-1500px.jpg</foto>
-      <foto orden="22">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170331164.PORTRAIT-20112024174355369-1500px.jpg</foto>
-      <foto orden="23">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170341219.PORTRAIT-20112024174355402-1500px.jpg</foto>
-      <foto orden="24">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170351626.PORTRAIT-20112024174355454-1500px.jpg</foto>
-      <foto orden="25">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170359156.PORTRAIT-20112024174355497-1500px.jpg</foto>
-      <foto orden="26">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170405386.PORTRAIT.ORIGINAL-20112024174355539-1500px.jpg</foto>
-      <foto orden="27">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_170410776.PORTRAIT-20112024174355580-1500px.jpg</foto>
-      <foto orden="28">https://midcar.azureedge.net/vehiculos/2706222633017/(FILEminimizer)%20PXL_20241120_171005862-20112024174355656-1500px.jpg</foto>
     </fotos>
   </vehiculo>
   <vehiculo>
