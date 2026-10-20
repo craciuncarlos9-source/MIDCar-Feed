@@ -1280,3 +1280,34 @@
 [2026-10-20 16:31:54]    Los tienes listados en publico/pendientes-bastidor.csv para rellenarlos.
 [2026-10-20 16:31:54]    Stock para IA: 89 vehiculos en publico/stock-ia.json y publico/stock-ia.txt
 [2026-10-20 16:31:54] Listo.
+[2026-10-20 20:28:33] ================================================================
+[2026-10-20 20:28:33] Generando feed de stock de MID Car
+[2026-10-20 20:28:33] 1. Leyendo la lista de vehiculos...
+[2026-10-20 20:28:34]   pagina 1: 200 vehiculos (acumulado 200 de 993)
+[2026-10-20 20:28:35]   pagina 2: 200 vehiculos (acumulado 400 de 993)
+[2026-10-20 20:28:37]   pagina 3: 200 vehiculos (acumulado 600 de 993)
+[2026-10-20 20:28:38]   pagina 4: 200 vehiculos (acumulado 800 de 993)
+[2026-10-20 20:28:39]   pagina 5: 193 vehiculos (acumulado 993 de 993)
+[2026-10-20 20:28:39]    total en el sistema: 993 | publicables: 89
+[2026-10-20 20:28:39] 2. Leyendo las fichas completas...
+[2026-10-20 20:28:39]   fichas nuevas: 0 | reaprovechadas de cache: 89
+[2026-10-20 20:28:39] 3. Normalizando y revisando datos...
+[2026-10-20 20:28:39]   aviso: linea 69 de bastidores.txt: el bastidor 'VFML000463770619' tiene 16 caracteres y deberian ser 17
+[2026-10-20 20:28:39]   aviso: linea 75 de bastidores.txt: el bastidor 'WF0EXXTRERA05436' tiene 16 caracteres y deberian ser 17
+[2026-10-20 20:28:39]   aviso: no entiendo la linea 74 de bastidores.txt: '8933LHN'
+[2026-10-20 20:28:39]   aviso: no entiendo la linea 77 de bastidores.txt: '9562LKG'
+[2026-10-20 20:28:39]   aviso: no entiendo la linea 83 de bastidores.txt: '1177KSB'
+[2026-10-20 20:28:39]   bastidores leidos de bastidores.txt: 83
+[2026-10-20 20:28:39]   datos extra: 83 bastidores disponibles en total
+[2026-10-20 20:28:39]    aviso: 1 vehiculos sin matricula en el sistema
+[2026-10-20 20:28:39] 4. Control de seguridad...
+[2026-10-20 20:28:39]    control de seguridad superado
+[2026-10-20 20:28:39] 5. Escribiendo ficheros...
+[2026-10-20 20:28:39]    publico/feed-maestro.xml (622 KB) con 89 vehiculos
+[2026-10-20 20:28:39]    precio medio 17056 EUR | 2150 fotos
+[2026-10-20 20:28:39] 6. Traduciendo a los formatos de cada destino...
+[2026-10-20 20:28:39]    Google Vehicle Ads: 81 de 89 vehiculos
+[2026-10-20 20:28:39]    ATENCION: 8 vehiculos sin bastidor (VIN), que Google exige.
+[2026-10-20 20:28:39]    Los tienes listados en publico/pendientes-bastidor.csv para rellenarlos.
+[2026-10-20 20:28:39]    Stock para IA: 89 vehiculos en publico/stock-ia.json y publico/stock-ia.txt
+[2026-10-20 20:28:39] Listo.
