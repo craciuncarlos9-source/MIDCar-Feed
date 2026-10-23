@@ -1,0 +1,52 @@
+name: Publicar en Autocasion
+
+on:
+  schedule:
+    # Cada 6 horas, media hora despues del feed para que ya este generado
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  autocasion:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Recuperar la cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: autocasion-${{ github.run_id }}
+          restore-keys: autocasion-
+
+      - name: Generar el stock al dia
+        run: python extraer_stock.py
+
+      - name: Publicar en Autocasion
+        env:
+          SUMAUTO_USUARIO: ${{ secrets.SUMAUTO_USUARIO }}
+          SUMAUTO_CLAVE: ${{ secrets.SUMAUTO_CLAVE }}
+          SUMAUTO_PRUEBAS: ${{ vars.SUMAUTO_PRUEBAS }}
+        run: python autocasion.py
+
+      - name: Guardar el resultado
+        if: always()
+        run: |
+          git config user.name "feed-midcar"
+          git config user.email "feed@midcar.net"
+          git add publico registro.log estado-autocasion.json
+          if git diff --staged --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "Autocasion: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
