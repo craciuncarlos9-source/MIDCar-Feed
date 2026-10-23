@@ -62,13 +62,22 @@ jobs:
 
           echo "modo=$MODO" >> $GITHUB_OUTPUT
           echo "args=$ARGS" >> $GITHUB_OUTPUT
-          echo "Se va a ejecutar en modo: $MODO"
+
+      - name: Comprobar credenciales
+        env:
+          U: ${{ secrets.SUMAUTO_USUARIO }}
+          C: ${{ secrets.SUMAUTO_CLAVE }}
+        run: |
+          echo "usuario: ${#U} caracteres"
+          echo "clave:   ${#C} caracteres"
+          echo "usuario empieza por: ${U:0:2}..."
 
       - name: Autocasion
         env:
           SUMAUTO_USUARIO: ${{ secrets.SUMAUTO_USUARIO }}
           SUMAUTO_CLAVE: ${{ secrets.SUMAUTO_CLAVE }}
           SUMAUTO_PRUEBAS: ${{ vars.SUMAUTO_PRUEBAS }}
+          SUMAUTO_URL: ${{ vars.SUMAUTO_URL }}
         run: python autocasion.py ${{ steps.modo.outputs.args }}
 
       - name: Guardar el resultado
