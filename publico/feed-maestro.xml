@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-10-26T16:44:16+00:00" concesionario="MID Car Soluciones S.L." total="89">
+<stock generado="2026-10-26T20:30:53+00:00" concesionario="MID Car Soluciones S.L." total="89">
   <vehiculo>
     <id>1610113720131</id>
     <matricula>5580LNM</matricula>
@@ -10,8 +10,8 @@
     <anio>2021</anio>
     <mes_matriculacion>3</mes_matriculacion>
     <km>141000</km>
-    <precio>18948</precio>
-    <precio_anterior>0</precio_anterior>
+    <precio>18950</precio>
+    <precio_anterior>19500</precio_anterior>
     <iva_deducible>true</iva_deducible>
     <combustible>Híbrido</combustible>
     <cambio>Manual</cambio>
