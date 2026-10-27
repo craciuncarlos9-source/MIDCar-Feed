@@ -1,6 +1,6 @@
 {
  "actualizado": true,
- "total": 89,
+ "total": 87,
  "vehiculos": [
   {
    "id": "1610113720131",
@@ -673,38 +673,6 @@
    ],
    "url": "https://www.midcar.net/dacia-dokker-van-essential-16-110cv-glp-hibrido-eco-iva-y-garantia-incluida-nacional-historial-mantenimiento-2021-3108130204002",
    "foto": "https://midcar.azureedge.net/vehiculos/3108130204002/Dacia%20Dokker%201.6GLP%20110Cv%20Etiqueta%20ECO%20IVA%20y%20garant%C3%ADa%20Inc1Due%C3%B1o-31082026130204003-1500px.jpg"
-  },
-  {
-   "id": "3108091415945",
-   "vehiculo": "Ford Transit Custom Van 2.0 TDCI 170Cv 320 L1 Trend con Etiqueta medioambiental C",
-   "marca": "Ford",
-   "modelo": "Custom",
-   "anio": 2021,
-   "km": 83000,
-   "precio_eur": 22950,
-   "cuota_mes_eur": 451,
-   "meses_financiacion": 72,
-   "combustible": "Diesel",
-   "cambio": "Manual",
-   "potencia_cv": 170,
-   "etiqueta_dgt": "C",
-   "plazas": 3,
-   "puertas": 4,
-   "color": "Blanco",
-   "iva_deducible": true,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Entrega inmediata",
-    "Vehículo nacional",
-    "Kilómetros certificados",
-    "Historial de mantenimiento",
-    "Vehículo revisado",
-    "Único propietario",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/ford-transit-custom-van-20-tdci-170cv-320-l1-trend-con-etiqueta-medioambiental-c-2021-3108091415945",
-   "foto": "https://midcar.azureedge.net/vehiculos/3108091415945/Ford%20Custom%202.0EcoBlue%20170CV%20Etiqueta%20C%20Nacional%20IVA%20y%20Garant%C3%ADa%20Inc%201Due%C3%B1o-06092026095435324-1500px.jpg"
   },
   {
    "id": "2008160834352",
@@ -1953,38 +1921,6 @@
    ],
    "url": "https://www.midcar.net/hyundai-kona-16-gdi-hev-style-sky-dt-hybrido-etiqueta-eco-iva-y-garantia-incl-2020-2903164338155",
    "foto": "https://midcar.azureedge.net/vehiculos/2903164338155/HYUNDAI%20KONA%201.6%20GDI%20HEV%20Style%20Sky%201%20Nacional%20Fuul%20Equipe-24042026080901008-1500px.jpg"
-  },
-  {
-   "id": "2903153758876",
-   "vehiculo": "Seat Leon SP 1.4 e-Hybrid DSG S&S Xcellence Go L Etiqueta 0 Electrico Enchufable Gasolina",
-   "marca": "Seat",
-   "modelo": "Leon",
-   "anio": 2021,
-   "km": 75000,
-   "precio_eur": 19900,
-   "cuota_mes_eur": 391,
-   "meses_financiacion": 72,
-   "combustible": "Híbrido",
-   "cambio": "Automático",
-   "potencia_cv": 150,
-   "etiqueta_dgt": "0",
-   "plazas": 5,
-   "puertas": 5,
-   "color": "Rojo Suave",
-   "iva_deducible": true,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Entrega inmediata",
-    "Vehículo nacional",
-    "Kilómetros certificados",
-    "Historial de mantenimiento",
-    "Vehículo revisado",
-    "Único propietario",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/seat-leon-sp-14-e-hybrid-dsg-s26s-xcellence-go-l-etiqueta-0-electrico-enchufable-gasolina-2021-2903153758876",
-   "foto": "https://midcar.azureedge.net/vehiculos/2903153758876/(FILEminimizer)%20PXL_20260329_085241481.PORTRAIT-29032026153758877-1500px.jpg"
   },
   {
    "id": "1503103305592",
