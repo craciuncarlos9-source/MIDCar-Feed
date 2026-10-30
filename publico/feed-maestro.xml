@@ -1,5 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-10-30T12:47:37+00:00" concesionario="MID Car Soluciones S.L." total="87">
+<stock generado="2026-10-30T16:44:06+00:00" concesionario="MID Car Soluciones S.L." total="86">
+  <vehiculo>
+    <id>3010161029320</id>
+    <matricula>4669KVK</matricula>
+    <bastidor/>
+    <marca>Ford</marca>
+    <modelo>Mondeo</modelo>
+    <version>Ford Mondeo 2.0Tdci ST-Line AWD Powershift 190 Cv Etiqueta medioambiental C</version>
+    <anio>2019</anio>
+    <mes_matriculacion>8</mes_matriculacion>
+    <km>94000</km>
+    <precio>19950</precio>
+    <precio_anterior>0</precio_anterior>
+    <iva_deducible>false</iva_deducible>
+    <combustible>Diesel</combustible>
+    <cambio>Automático</cambio>
+    <potencia_cv>190</potencia_cv>
+    <puertas>5</puertas>
+    <plazas>5</plazas>
+    <color>Gris</color>
+    <etiqueta_dgt>C</etiqueta_dgt>
+    <garantia_meses>12</garantia_meses>
+    <cuota_mes>392</cuota_mes>
+    <meses_financiacion>72</meses_financiacion>
+    <reservado>false</reservado>
+    <concesionario>torrejon-de-ardoz</concesionario>
+    <url>https://www.midcar.net/ford-mondeo-20tdci--st-line-awd-powershift-190-cv-etiqueta-medioambiental-c-2019-3010161029320</url>
+    <equipamiento>
+      <item>Entrega inmediata</item>
+      <item>Vehículo nacional</item>
+      <item>Kilómetros certificados</item>
+      <item>Historial de mantenimiento</item>
+      <item>Vehículo revisado</item>
+      <item>Garantia 1 año</item>
+      <item>Informe CARFAX disponible</item>
+    </equipamiento>
+    <descripcion>Ford Mondeo 2.0Tdci ST-Line AWD Powershift 190 Cv Etiqueta medioambiental C, del 2019 con 94.000 kilómetros certificados por escrito con historial de mantenimiento al día.
+
+
+Mas de 5693€ en Equipamiento Confort y Seguridad:
+-Cámara de visión trasera,
+-Control de crucero adaptativo ACC + Asistente pre-colisión con detección de peatones 
+- Techo panorámico
+-Cortinillas parasol traseras
+-Cristales privacidad
+-Faros LED Dinámicos
+-Navegador 8&quot; TFT SD táctil con SYNC 3
+-Cámara de visión trasera
+-Cinturones de seguridad traseros inflables
+-Paquete Tech Premium
+-Cristales privacidad
+- Paquete Cuero
+Sistema de aparcamiento asistido
+- Pantalla táctil
+- Asientos calefactables eléctricos
+- Asistente de mantenimiento de carril
+- Control de velocidad
+- Llantas de aleación de 19&quot;
+- Sensor de presión de neumáticos
+-Paquete Aerodinámico Individual 5P
+-Paquete Cuero parcial ST-Line
+-Paquete Tech
+-Parabrisas calefactable
+- Volante en cuero multifunción
+- Retrovisores abatibles eléctricos
+- Sensores de aparcamiento del/tras
+- Sensores luz y lluvia
+- Control por voz
+- Luz diurna
+- Asientos ISOFIX
+- Asistente a la conducción (reconocimiento de cansancio)
+- Ajuste asiento eléctrico con memoria
+- Función encendido Power Keyfree
+
+
+
+Vehículo con procedencia NACIONAL.
+
+Garantía mecánica de 12 meses incluida,
+
+Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
+
+Tasamos su vehículo como parte de pago.
+
+Horario de Apertura: Lunes – Jueves: 9:00h a 14:00h – 15:30h a 20h
+Viernes; 9:00h a 14:00h – 15:30h a 17h
+Sábado Cerrado
+Domingo: 11:00h – 14:00h
+
+
+
+Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.</descripcion>
+    <fotos>
+      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154140336.PORTRAIT-30102026161029321-1500px.jpg</foto>
+      <foto orden="2">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154215515.PORTRAIT.ORIGINAL-30102026161029565-1500px.jpg</foto>
+      <foto orden="3">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154236935.PORTRAIT-30102026161029625-1500px.jpg</foto>
+      <foto orden="4">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154251255.PORTRAIT-30102026161029688-1500px.jpg</foto>
+      <foto orden="5">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154256893.PORTRAIT-30102026161029730-1500px.jpg</foto>
+      <foto orden="6">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154311069.PORTRAIT-30102026161029775-1500px.jpg</foto>
+      <foto orden="7">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154326242.PORTRAIT-30102026161029826-1500px.jpg</foto>
+      <foto orden="8">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154345577.PORTRAIT-30102026161029879-1500px.jpg</foto>
+      <foto orden="9">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154352559.PORTRAIT-30102026161029949-1500px.jpg</foto>
+      <foto orden="10">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154400739.PORTRAIT-30102026161030013-1500px.jpg</foto>
+      <foto orden="11">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154408945.PORTRAIT.ORIGINAL-30102026161030059-1500px.jpg</foto>
+      <foto orden="12">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154419198.PORTRAIT.ORIGINAL-30102026161030116-1500px.jpg</foto>
+      <foto orden="13">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154426386.PORTRAIT-30102026161030173-1500px.jpg</foto>
+      <foto orden="14">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154430516.PORTRAIT-30102026161030220-1500px.jpg</foto>
+      <foto orden="15">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154436375.PORTRAIT.ORIGINAL-30102026161030266-1500px.jpg</foto>
+      <foto orden="16">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154439615.PORTRAIT.ORIGINAL-30102026161030309-1500px.jpg</foto>
+      <foto orden="17">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154447471.PORTRAIT-30102026161030369-1500px.jpg</foto>
+      <foto orden="18">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154454827.PORTRAIT-30102026161030418-1500px.jpg</foto>
+      <foto orden="19">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154505662.PORTRAIT.ORIGINAL-30102026161030462-1500px.jpg</foto>
+      <foto orden="20">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154520631.PORTRAIT-30102026161030507-1500px.jpg</foto>
+      <foto orden="21">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154530922.PORTRAIT-30102026161030562-1500px.jpg</foto>
+      <foto orden="22">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154545020.PORTRAIT.ORIGINAL-30102026161030610-1500px.jpg</foto>
+      <foto orden="23">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154600838.PORTRAIT.ORIGINAL-30102026161030685-1500px.jpg</foto>
+      <foto orden="24">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154611691-30102026161030747-1500px.jpg</foto>
+      <foto orden="25">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154627046-30102026161030796-1500px.jpg</foto>
+      <foto orden="26">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154632468-30102026161030848-1500px.jpg</foto>
+      <foto orden="27">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154637260-30102026161030895-1500px.jpg</foto>
+      <foto orden="28">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154641066-30102026161030941-1500px.jpg</foto>
+      <foto orden="29">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154706450-30102026161030984-1500px.jpg</foto>
+      <foto orden="30">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154751740-30102026161031040-1500px.jpg</foto>
+      <foto orden="31">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154754140-30102026161031093-1500px.jpg</foto>
+      <foto orden="32">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154757513-30102026161031144-1500px.jpg</foto>
+      <foto orden="33">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154817593-30102026161031197-1500px.jpg</foto>
+      <foto orden="34">https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261030_154912443-30102026161031244-1500px.jpg</foto>
+    </fotos>
+  </vehiculo>
   <vehiculo>
     <id>1610113720131</id>
     <matricula>5580LNM</matricula>
@@ -1495,7 +1623,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <anio>2020</anio>
     <mes_matriculacion>12</mes_matriculacion>
     <km>143516</km>
-    <precio>18950</precio>
+    <precio>19950</precio>
     <precio_anterior>0</precio_anterior>
     <iva_deducible>true</iva_deducible>
     <combustible>Diesel</combustible>
@@ -1506,7 +1634,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <color>Blanco</color>
     <etiqueta_dgt>C</etiqueta_dgt>
     <garantia_meses>12</garantia_meses>
-    <cuota_mes>372</cuota_mes>
+    <cuota_mes>392</cuota_mes>
     <meses_financiacion>72</meses_financiacion>
     <reservado>false</reservado>
     <concesionario>torrejon-de-ardoz</concesionario>
@@ -1521,7 +1649,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
       <item>Garantia 1 año</item>
       <item>Informe CARFAX disponible</item>
     </equipamiento>
-    <descripcion>Peugeot Expert Premium 2.0 BlueHDi 120 EAT8 Stan Furgón, Etiqueta medioambiental C, del 16/12/2020 con 143516.000 kilómetros certificados por escrito con Historial de mantenimiento al día.
+    <descripcion>Peugeot Expert Premium 2.0 BlueHDi 120 EAT8 Stan Furgón, Etiqueta medioambiental C, del 16/12/2020 con 143000 kilómetros certificados por escrito con Historial de mantenimiento al día.
 
 Equipamiento:
 
@@ -2664,97 +2792,6 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     </fotos>
   </vehiculo>
   <vehiculo>
-    <id>1008141312097</id>
-    <matricula>2957MCD</matricula>
-    <bastidor>WF0SXXWPGSNB33761</bastidor>
-    <marca>Ford</marca>
-    <modelo>Transit Connect</modelo>
-    <version>Ford Transit Connect 1.5EcoBlueTrend 210 L2 4 Puertas 100Cv</version>
-    <anio>2022</anio>
-    <mes_matriculacion>11</mes_matriculacion>
-    <km>54000</km>
-    <precio>17950</precio>
-    <precio_anterior>0</precio_anterior>
-    <iva_deducible>true</iva_deducible>
-    <combustible>Diesel</combustible>
-    <cambio>Manual</cambio>
-    <potencia_cv>100</potencia_cv>
-    <puertas>4</puertas>
-    <plazas>2</plazas>
-    <color>Blanco</color>
-    <etiqueta_dgt>C</etiqueta_dgt>
-    <garantia_meses>12</garantia_meses>
-    <cuota_mes>352</cuota_mes>
-    <meses_financiacion>72</meses_financiacion>
-    <reservado>false</reservado>
-    <concesionario>torrejon-de-ardoz</concesionario>
-    <url>https://www.midcar.net/ford-transit-connect-15ecobluetrend-210-l2-4-puertas-100cv-2022-1008141312097</url>
-    <equipamiento>
-      <item>Entrega inmediata</item>
-      <item>Vehículo nacional</item>
-      <item>Kilómetros certificados</item>
-      <item>Historial de mantenimiento</item>
-      <item>Vehículo revisado</item>
-      <item>Único propietario</item>
-      <item>Garantia 1 año</item>
-      <item>Informe CARFAX disponible</item>
-    </equipamiento>
-    <descripcion>Ford Transit Connect 1.5EcoBlueTrend 210 L2 4 Puertas 100Cv, 6 Velocidades , Etiqueta medioambiental C, del 08/11/2022 con 54.000 kilómetros certificados por escrito con historial de mantenimiento al día.
-
-Equipamiento:
-
-- Puerta Lateral
-- Aire Acondicionado
-- Airbag de pasajero
-- Elevalunas eléctricos
-- Esp
-- Indicador de marchas
-- Cierre centralizado con mando
-- Control tracción
-- Sensores de aparcamiento con camara marcha atras,
-- Rueda de repuesto
-
-
-Vehículo de un ÚNICO PROPIETARIO con PROCEDENCIA NACIONAL.
-
-Garantía mecánica de 12 meses e IVA incluido,
-
-Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
-
-Tasamos su vehículo como parte de pago.
-
-Horario de Apertura: Lunes – Jueves: 9:00h a 14:00h – 15:30h a 20:00h
-Viernes 9:00h a 14:00h – 15:30h a 18:0h
-
-Sábado Cerrado
-
-Domingo: 11:00h – 14:00h
-
-
-Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.</descripcion>
-    <fotos>
-      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%201-10082026141312104-1500px.jpg</foto>
-      <foto orden="2">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20Transit%20Connect%20L2%201.5EcoBlue%202%20Carfax-10082026141312538-1500px.jpg</foto>
-      <foto orden="3">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%203%20Nacional-10082026141312654-1500px.jpg</foto>
-      <foto orden="4">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%204%20kilometraje%20certificado-10082026141312759-1500px.jpg</foto>
-      <foto orden="5">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%205%20mantenimiento%20al%20dia-10082026141312878-1500px.jpg</foto>
-      <foto orden="6">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%206%20libro%20de%20mantenimiento-10082026141312955-1500px.jpg</foto>
-      <foto orden="7">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%207%20revisados-10082026141313014-1500px.jpg</foto>
-      <foto orden="8">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%208%20garant%C3%ADa-10082026141313061-1500px.jpg</foto>
-      <foto orden="9">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%209%20transferencia%20incluida-10082026141313110-1500px.jpg</foto>
-      <foto orden="10">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2010%20financiaci%C3%B3n-10082026141313154-1500px.jpg</foto>
-      <foto orden="11">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2011%202%20plazas-10082026141313194-1500px.jpg</foto>
-      <foto orden="12">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2012%20vehiculo%20con%20carfax-10082026141313236-1500px.jpg</foto>
-      <foto orden="13">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2013%2012%20meses%20de%20garant%C3%ADa%20mec%C3%A1nica-10082026141313273-1500px.jpg</foto>
-      <foto orden="14">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2014%20Iva%20incluido-10082026141313323-1500px.jpg</foto>
-      <foto orden="15">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2015%20Solo%20veh%C3%ADculos%20naiconales-10082026141313365-1500px.jpg</foto>
-      <foto orden="16">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2016%20mantenimiento%20y%20carfax-10082026141313415-1500px.jpg</foto>
-      <foto orden="17">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2017%20kilometraje%20real-10082026141313467-1500px.jpg</foto>
-      <foto orden="18">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2018%206%20Velocidades-10082026141313514-1500px.jpg</foto>
-      <foto orden="19">https://midcar.azureedge.net/vehiculos/1008141312097/Ford%20transit%20Connect%20L2%201.5EcoBlue%2019%20vehiculos%20cuidados%20industriales-10082026141313575-1500px.jpg</foto>
-    </fotos>
-  </vehiculo>
-  <vehiculo>
     <id>0308173407931</id>
     <matricula>5492KZP</matricula>
     <bastidor>WF07XXWPG7KY51874</bastidor>
@@ -2989,7 +3026,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <anio>2020</anio>
     <mes_matriculacion>9</mes_matriculacion>
     <km>85000</km>
-    <precio>13950</precio>
+    <precio>14950</precio>
     <precio_anterior>0</precio_anterior>
     <iva_deducible>true</iva_deducible>
     <combustible>Diesel</combustible>
@@ -3000,7 +3037,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <color>Blanco</color>
     <etiqueta_dgt>C</etiqueta_dgt>
     <garantia_meses>12</garantia_meses>
-    <cuota_mes>274</cuota_mes>
+    <cuota_mes>293</cuota_mes>
     <meses_financiacion>72</meses_financiacion>
     <reservado>false</reservado>
     <concesionario>torrejon-de-ardoz</concesionario>
@@ -3042,7 +3079,8 @@ Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
 
 Tasamos su vehículo como parte de pago.
 
-Horario de Apertura: Lunes – Viernes: 9:00h a 14:00h – 15:30h a 20:30h
+Horario de Apertura: Lunes – Jueves: 9:00h a 14:00h – 15:30h a 20:00h
+Viernes : 9:00h a 14:00h – 15:30h a 17:00h
 
 Sábado Cerrado Domingo: 11:00h – 14:00h
 
@@ -3475,7 +3513,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <anio>2020</anio>
     <mes_matriculacion>11</mes_matriculacion>
     <km>98000</km>
-    <precio>13800</precio>
+    <precio>13950</precio>
     <precio_anterior>0</precio_anterior>
     <iva_deducible>true</iva_deducible>
     <combustible>Gas</combustible>
@@ -3486,7 +3524,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <color>Gris</color>
     <etiqueta_dgt>ECO</etiqueta_dgt>
     <garantia_meses>12</garantia_meses>
-    <cuota_mes>271</cuota_mes>
+    <cuota_mes>274</cuota_mes>
     <meses_financiacion>72</meses_financiacion>
     <reservado>false</reservado>
     <concesionario>torrejon-de-ardoz</concesionario>
@@ -3892,83 +3930,6 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
       <foto orden="12">https://midcar.azureedge.net/vehiculos/2306160806272/Fiat%20Fiorino%201.3Mjt%2080Cv%20Sin%20Adblue%20IVA%20y%20Garant%C3%ADa%20Incl%20Etiqueta%20C12-17082026105801213-1500px.jpg</foto>
       <foto orden="13">https://midcar.azureedge.net/vehiculos/2306160806272/Fiat%20Fiorino%201.3Mjt%2080Cv%20Sin%20Adblue%20IVA%20y%20Garant%C3%ADa%20Incl%20Etiqueta%20C13-17082026105801268-1500px.jpg</foto>
       <foto orden="14">https://midcar.azureedge.net/vehiculos/2306160806272/Fiat%20Fiorino%201.3Mjt%2080Cv%20Sin%20Adblue%20IVA%20y%20Garant%C3%ADa%20Incl%20Etiqueta%20C14-17082026105801322-1500px.jpg</foto>
-    </fotos>
-  </vehiculo>
-  <vehiculo>
-    <id>1806150252539</id>
-    <matricula>0102LFG</matricula>
-    <bastidor>WF0SXXWPGSLB66785</bastidor>
-    <marca>Ford</marca>
-    <modelo>Transit Connect</modelo>
-    <version>Ford Transit Connect Van VAN 1.5EcoBlue 100Cv TREND 210 L2 3 Plazas Etiqueta C IVA y Garantía Incl</version>
-    <anio>2020</anio>
-    <mes_matriculacion>1</mes_matriculacion>
-    <km>92000</km>
-    <precio>16950</precio>
-    <precio_anterior>0</precio_anterior>
-    <iva_deducible>true</iva_deducible>
-    <combustible>Diesel</combustible>
-    <cambio>Manual</cambio>
-    <potencia_cv>100</potencia_cv>
-    <puertas>4</puertas>
-    <plazas>3</plazas>
-    <color>Blanco</color>
-    <etiqueta_dgt>C</etiqueta_dgt>
-    <garantia_meses>12</garantia_meses>
-    <cuota_mes>333</cuota_mes>
-    <meses_financiacion>72</meses_financiacion>
-    <reservado>false</reservado>
-    <concesionario>torrejon-de-ardoz</concesionario>
-    <url>https://www.midcar.net/ford-transit-connect-van-van-15ecoblue-100cv-trend-210-l2-3-plazas-etiqueta-c-iva-y-garantia-incl-2020-1806150252539</url>
-    <equipamiento>
-      <item>Entrega inmediata</item>
-      <item>Vehículo nacional</item>
-      <item>Kilómetros certificados</item>
-      <item>Historial de mantenimiento</item>
-      <item>Vehículo revisado</item>
-      <item>Único propietario</item>
-      <item>Garantia 1 año</item>
-      <item>Informe CARFAX disponible</item>
-    </equipamiento>
-    <descripcion>Ford Transit Connect Van VAN 1.5EcoBlue 100Cv TREND 210 L2, 3 Plazas del 31/01/2020 Etiqueta medioambiental C, con 92.000 kilómetros certificados por escrito con historial de mantenimiento.
-
-Equipamiento:
-- Airbag Pasajero
-- Asiento Pasajero Doble + Ajuste lumbar conductor
-- Climatizador 
-- Mamparo Completo con apertura inferior
-- Control tracción
-- Ordenador de a bordo
-- Dirección Asistida
-- Elevalunas eléctricas
-- Radio CD MP3
-- Retrovisores eléctricos
-- Foros antiniebla
-- Cierre centralizado con mando
-
-Vehículo de ÚNICO PROPIETARIO con procedencia NACIONAL.
-
-Garantía mecánica de 12 meses e IVA incluido,
-
-Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
-
-Tasamos su vehículo como parte de pago.
-
-Horario de Apertura: Lunes – Viernes: 9:00h a 14:00h – 15:30h a 20:30h
-Sábado Cerrado
-Domingo: 11:00h – 14:00h,
-
-
-Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.</descripcion>
-    <fotos>
-      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/1806150252539/01-18062026150252540-1500px.jpg</foto>
-      <foto orden="2">https://midcar.azureedge.net/vehiculos/1806150252539/02-18062026150252802-1500px.jpg</foto>
-      <foto orden="3">https://midcar.azureedge.net/vehiculos/1806150252539/03-18062026150252875-1500px.jpg</foto>
-      <foto orden="4">https://midcar.azureedge.net/vehiculos/1806150252539/04-18062026150252965-1500px.jpg</foto>
-      <foto orden="5">https://midcar.azureedge.net/vehiculos/1806150252539/05-18062026150253035-1500px.JPG</foto>
-      <foto orden="6">https://midcar.azureedge.net/vehiculos/1806150252539/06-18062026150253090-1500px.JPG</foto>
-      <foto orden="7">https://midcar.azureedge.net/vehiculos/1806150252539/07-18062026150253139-1500px.JPG</foto>
-      <foto orden="8">https://midcar.azureedge.net/vehiculos/1806150252539/08-18062026150253193-1500px.JPG</foto>
     </fotos>
   </vehiculo>
   <vehiculo>
