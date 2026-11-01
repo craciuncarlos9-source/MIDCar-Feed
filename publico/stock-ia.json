@@ -1,6 +1,6 @@
 {
  "actualizado": true,
- "total": 86,
+ "total": 85,
  "vehiculos": [
   {
    "id": "3010161029320",
@@ -2048,38 +2048,6 @@
    ],
    "url": "https://www.midcar.net/skoda-superb-style-dsg--18tsi-160cv-2011-0203104944978",
    "foto": "https://midcar.azureedge.net/vehiculos/0203104944978/(FILEminimizer)%20PXL_20260210_153647278.PORTRAIT-02032026104944980-1500px.jpg"
-  },
-  {
-   "id": "2702100803631",
-   "vehiculo": "Dacia Dokker Van Essential 1.6 110Cv GLP Híbrido ECO,",
-   "marca": "Dacia",
-   "modelo": "Dokker",
-   "anio": 2021,
-   "km": 59000,
-   "precio_eur": 14900,
-   "cuota_mes_eur": 292,
-   "meses_financiacion": 72,
-   "combustible": "Gas",
-   "cambio": "Manual",
-   "potencia_cv": 110,
-   "etiqueta_dgt": "ECO",
-   "plazas": 2,
-   "puertas": 5,
-   "color": "Blanco",
-   "iva_deducible": true,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Entrega inmediata",
-    "Vehículo nacional",
-    "Kilómetros certificados",
-    "Historial de mantenimiento",
-    "Vehículo revisado",
-    "Único propietario",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/dacia-dokker-van-essential-16-110cv-glp-hibrido-eco-2021-2702100803631",
-   "foto": "https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144032085.PORTRAIT.ORIGINAL-27022026100803633-1500px.jpg"
   },
   {
    "id": "1702190845862",

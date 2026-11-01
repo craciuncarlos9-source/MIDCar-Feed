@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-11-01T08:44:57+00:00" concesionario="MID Car Soluciones S.L." total="86">
+<stock generado="2026-11-01T12:43:41+00:00" concesionario="MID Car Soluciones S.L." total="85">
   <vehiculo>
     <id>3010161029320</id>
     <matricula>4669KVK</matricula>
@@ -6649,98 +6649,6 @@ Este anuncio no es vinculante, puede contener errores, se muestra a título info
       <foto orden="23">https://midcar.azureedge.net/vehiculos/0203104944978/(FILEminimizer)%20PXL_20260210_154516486.PORTRAIT-02032026104946589-1500px.jpg</foto>
       <foto orden="24">https://midcar.azureedge.net/vehiculos/0203104944978/(FILEminimizer)%20PXL_20260210_154534770.PORTRAIT-02032026104946658-1500px.jpg</foto>
       <foto orden="25">https://midcar.azureedge.net/vehiculos/0203104944978/(FILEminimizer)%20PXL_20260210_154541382.PORTRAIT-02032026104946710-1500px.jpg</foto>
-    </fotos>
-  </vehiculo>
-  <vehiculo>
-    <id>2702100803631</id>
-    <matricula>7272LNF</matricula>
-    <bastidor>UU1F6720066973642</bastidor>
-    <marca>Dacia</marca>
-    <modelo>Dokker</modelo>
-    <version>Dacia Dokker Van Essential 1.6 110Cv GLP Híbrido ECO,</version>
-    <anio>2021</anio>
-    <mes_matriculacion>11</mes_matriculacion>
-    <km>59000</km>
-    <precio>14900</precio>
-    <precio_anterior>0</precio_anterior>
-    <iva_deducible>true</iva_deducible>
-    <combustible>Gas</combustible>
-    <cambio>Manual</cambio>
-    <potencia_cv>110</potencia_cv>
-    <puertas>5</puertas>
-    <plazas>2</plazas>
-    <color>Blanco</color>
-    <etiqueta_dgt>ECO</etiqueta_dgt>
-    <garantia_meses>12</garantia_meses>
-    <cuota_mes>292</cuota_mes>
-    <meses_financiacion>72</meses_financiacion>
-    <reservado>false</reservado>
-    <concesionario>torrejon-de-ardoz</concesionario>
-    <url>https://www.midcar.net/dacia-dokker-van-essential-16-110cv-glp-hibrido-eco-2021-2702100803631</url>
-    <equipamiento>
-      <item>Entrega inmediata</item>
-      <item>Vehículo nacional</item>
-      <item>Kilómetros certificados</item>
-      <item>Historial de mantenimiento</item>
-      <item>Vehículo revisado</item>
-      <item>Único propietario</item>
-      <item>Garantia 1 año</item>
-      <item>Informe CARFAX disponible</item>
-    </equipamiento>
-    <descripcion>Esta Dokker Van de 2 plazas tiene un argumento muy potente para profesionales: etiqueta ECO y motor GLP. Es una furgoneta pensada para moverse por ciudad con más tranquilidad y reducir el gasto de uso diario. Además, sus 59.000 km la hacen especialmente interesante para quien busca una herramienta de trabajo con mucho recorrido por delante.
-
-Dacia Dokker Van Essential 1.6 110Cv GLP Híbrido ECO, del año 22/03/2021 es mucho más que una furgoneta: es la aliada perfecta para tu negocio o tus proyectos personales. Su motor híbrido de 110 CV combina economía y fiabilidad, mientras que su interior práctico y cómodo garantiza que cada trayecto sea eficiente y funcional,
-
-Con un único propietario, historial de mantenimiento certificado y procedencia nacional, esta Dokker ofrece la tranquilidad de una compra segura, respaldada por todas las garantías.
-
-Características principales:
-Motor 1.6 GLP Híbrido de 110 CV
-Cambio manual
-Año de matriculación: 22/03/2021
-Kilometraje: 59.000 km certificados
-
-Equipamiento destacado:
-Doble Puerta lateral
-Aire acondicionado
-Airbag pasajero
-Dirección asistida
-Elevalunas eléctricos
-Radio MP3 con Bluetooth
-Cierre centralizado con mando a distancia
-Volante multifunción
-Faros antiniebla
-
-Ventajas incluidas:
-12 meses de garantía mecánica
-IVA incluido en el precio
-Financiación hasta el 100% sin entrada (con última nómina)
-Tasación de su vehículo como parte de pago
-
-Horario de atención:
-Lunes a Viernes: 09:00 – 14:00 / 15:30 – 20:30
-Sábados: Cerrado
-Domingos: 11:00 – 14:00
-
-
-Nota legal:
-Si han visto algún error ROGAMOS nos avisen. Este anuncio no es vinculante, puede contener errores y se muestra a título informativo, no contractual.
-
-Nuestro compromiso
-
-En MID CAR no solo vendemos vehículos.
-Ofrecemos confianza, transparencia y un servicio integral, para que la compra de su Dacia Dokker sea tan satisfactoria como disfrutarla en su día a día.</descripcion>
-    <fotos>
-      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144032085.PORTRAIT.ORIGINAL-27022026100803633-1500px.jpg</foto>
-      <foto orden="2">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144116691.PORTRAIT.ORIGINAL-27022026100804014-1500px.jpg</foto>
-      <foto orden="3">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144157124.PORTRAIT-27022026100804076-1500px.jpg</foto>
-      <foto orden="4">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_143825088-27022026100804131-1500px.jpg</foto>
-      <foto orden="5">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_143913394-27022026100804182-1500px.jpg</foto>
-      <foto orden="6">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144044708.PORTRAIT-27022026100804239-1500px.jpg</foto>
-      <foto orden="7">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144106898.PORTRAIT-27022026100804287-1500px.jpg</foto>
-      <foto orden="8">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144126441.PORTRAIT-27022026100804342-1500px.jpg</foto>
-      <foto orden="9">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144139693.PORTRAIT.ORIGINAL-27022026100804390-1500px.jpg</foto>
-      <foto orden="10">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144144594.PORTRAIT-27022026100804436-1500px.jpg</foto>
-      <foto orden="11">https://midcar.azureedge.net/vehiculos/2702100803631/(FILEminimizer)%20PXL_20260225_144149486.PORTRAIT-27022026100804486-1500px.jpg</foto>
     </fotos>
   </vehiculo>
   <vehiculo>
