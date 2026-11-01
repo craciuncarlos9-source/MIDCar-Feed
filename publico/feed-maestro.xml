@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-10-31T20:30:16+00:00" concesionario="MID Car Soluciones S.L." total="86">
+<stock generado="2026-11-01T00:56:21+00:00" concesionario="MID Car Soluciones S.L." total="86">
   <vehiculo>
     <id>3010161029320</id>
     <matricula>4669KVK</matricula>
@@ -8352,8 +8352,8 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
     <color>Blanco Banquise (opaco)</color>
     <etiqueta_dgt>C</etiqueta_dgt>
     <garantia_meses>12</garantia_meses>
-    <cuota_mes>245</cuota_mes>
-    <meses_financiacion>72</meses_financiacion>
+    <cuota_mes>280</cuota_mes>
+    <meses_financiacion>60</meses_financiacion>
     <reservado>false</reservado>
     <concesionario>torrejon-de-ardoz</concesionario>
     <url>https://www.midcar.net/peugeot-308-15bluehdi-style-130cv-etiqueta-medioambiental-c-2019-2705145300282</url>
