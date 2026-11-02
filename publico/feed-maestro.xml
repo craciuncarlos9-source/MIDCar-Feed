@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-11-02T08:58:00+00:00" concesionario="MID Car Soluciones S.L." total="85">
+<stock generado="2026-11-02T12:58:08+00:00" concesionario="MID Car Soluciones S.L." total="85">
   <vehiculo>
     <id>3010161029320</id>
     <matricula>4669KVK</matricula>
@@ -138,8 +138,8 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <anio>2021</anio>
     <mes_matriculacion>3</mes_matriculacion>
     <km>141000</km>
-    <precio>18950</precio>
-    <precio_anterior>19500</precio_anterior>
+    <precio>19950</precio>
+    <precio_anterior>0</precio_anterior>
     <iva_deducible>true</iva_deducible>
     <combustible>Híbrido</combustible>
     <cambio>Manual</cambio>
@@ -149,7 +149,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <color>Blanco</color>
     <etiqueta_dgt>ECO</etiqueta_dgt>
     <garantia_meses>12</garantia_meses>
-    <cuota_mes>372</cuota_mes>
+    <cuota_mes>392</cuota_mes>
     <meses_financiacion>72</meses_financiacion>
     <reservado>false</reservado>
     <concesionario>torrejon-de-ardoz</concesionario>
@@ -164,20 +164,13 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
       <item>Garantia 1 año</item>
       <item>Informe CARFAX disponible</item>
     </equipamiento>
-    <descripcion>Ford Transit Custom Van 2.0 TDCI 340 L2 MHEV Trend, Tracción delantera, 130Cv Etiqueta medioambiental ECO, del 24/06/2022 con 215.708 kilómetros certificados por escrito con historial de mantenimiento al día.
+    <descripcion>Ford Transit Custom Van 2.0 TDCI 280 L MHEV Trend, Tracción delantera, 130Cv Etiqueta medioambiental ECO, del 31/03/2021 con 141000 kilómetros certificados por escrito con historial de mantenimiento al día.
 
 Equipamiento:
 
-- Airbag del Pasajero activo
-- Asistente de pre-colosión
-- Sistema mantenimiento de carril
-- Driver Alert
-- Alarma perimétrica
-- Luces LED en compartimento de carga
 - Paquete control de crucero adaptativo
 - Radio SYNC3 + TFT de 8&quot; con Navegador y FordPass Connect
-- Toma de corriente delantera 230V
-- Control velocidad adaptivo
+- Control velocidad
 - Retrovisores abatibles automáticos,
 - Luces automáticas y larga auto
 - Sensores de aparcamiento
@@ -194,7 +187,7 @@ Equipamiento:
 - Cierre centralizado con mando
 - Faros antiniebla
 
-Garantía mecánica de 12 meses e IVA incluido + Cambio de nombre incluido en el precio e Impuestos de este año.
+Garantía mecánica de 12 meses e IVA incluido,
 
 Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
 
