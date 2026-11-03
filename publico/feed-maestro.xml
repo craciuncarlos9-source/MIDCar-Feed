@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-11-03T12:55:31+00:00" concesionario="MID Car Soluciones S.L." total="85">
+<stock generado="2026-11-03T16:52:37+00:00" concesionario="MID Car Soluciones S.L." total="85">
   <vehiculo>
     <id>3010161029320</id>
     <matricula>4669KVK</matricula>
@@ -6453,7 +6453,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <anio>2022</anio>
     <mes_matriculacion>5</mes_matriculacion>
     <km>139000</km>
-    <precio>15450</precio>
+    <precio>14950</precio>
     <precio_anterior>16950</precio_anterior>
     <iva_deducible>false</iva_deducible>
     <combustible>Híbrido</combustible>
@@ -6464,7 +6464,7 @@ Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, pue
     <color>Blanco</color>
     <etiqueta_dgt>0</etiqueta_dgt>
     <garantia_meses>12</garantia_meses>
-    <cuota_mes>303</cuota_mes>
+    <cuota_mes>293</cuota_mes>
     <meses_financiacion>72</meses_financiacion>
     <reservado>false</reservado>
     <concesionario>torrejon-de-ardoz</concesionario>
