@@ -1,12 +1,12 @@
 {
-  "generado": "2026-11-10T16:48:51+00:00",
+  "generado": "2026-11-10T20:42:36+00:00",
   "publicados": 84,
-  "total_sistema": 994,
+  "total_sistema": 995,
   "descartados": 0,
-  "sin_matricula": 1,
+  "sin_matricula": 2,
   "con_pocas_fotos": 0,
-  "precio_medio": 17035,
-  "fotos_totales": 2060,
-  "google_publicados": 75,
-  "google_sin_vin": 9
+  "precio_medio": 17171,
+  "fotos_totales": 2086,
+  "google_publicados": 74,
+  "google_sin_vin": 10
 }
