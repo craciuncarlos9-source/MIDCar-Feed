@@ -1,6 +1,6 @@
 {
  "actualizado": true,
- "total": 85,
+ "total": 84,
  "vehiculos": [
   {
    "id": "3010161029320",
@@ -1376,38 +1376,6 @@
    ],
    "url": "https://www.midcar.net/peugeot-partner-premium--long-15-bluehdi-100cv-etiqueta-c-iva-y-garantia-incl-2022-0306203534086",
    "foto": "https://midcar.azureedge.net/vehiculos/0306203534086/(FILEminimizer)%20PXL_20260601_180715943.PORTRAIT-23062026092244481-1500px.jpg"
-  },
-  {
-   "id": "3105172907028",
-   "vehiculo": "Peugeot Boxer 2.2BlueHdi 3.5T L3 Heavy 140Cv Cabina IVA y garantía Etiqueta C",
-   "marca": "Peugeot",
-   "modelo": "Boxer",
-   "anio": 2020,
-   "km": 156000,
-   "precio_eur": 18950,
-   "cuota_mes_eur": 372,
-   "meses_financiacion": 72,
-   "combustible": "Diesel",
-   "cambio": "Manual",
-   "potencia_cv": 140,
-   "etiqueta_dgt": "C",
-   "plazas": 2,
-   "puertas": 4,
-   "color": "Blanco",
-   "iva_deducible": true,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Entrega inmediata",
-    "Vehículo nacional",
-    "Kilómetros certificados",
-    "Historial de mantenimiento",
-    "Vehículo revisado",
-    "Único propietario",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/peugeot-boxer-22bluehdi-35t-l3-heavy-140cv-cabina-iva-y-garantia-etiqueta-c-2020-3105172907028",
-   "foto": "https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C1-11062026115923623-1500px.jpg"
   },
   {
    "id": "2805095808659",

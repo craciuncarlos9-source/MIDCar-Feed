@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stock generado="2026-11-10T12:57:11+00:00" concesionario="MID Car Soluciones S.L." total="85">
+<stock generado="2026-11-10T16:48:51+00:00" concesionario="MID Car Soluciones S.L." total="84">
   <vehiculo>
     <id>3010161029320</id>
     <matricula>4669KVK</matricula>
@@ -4442,116 +4442,6 @@ Ofrecemos confianza, transparencia y un servicio integral, para que la compra de
       <foto orden="18">https://midcar.azureedge.net/vehiculos/0306203534086/(FILEminimizer)%20PXL_20260601_180922924.PORTRAIT-23062026092245396-1500px.jpg</foto>
       <foto orden="19">https://midcar.azureedge.net/vehiculos/0306203534086/(FILEminimizer)%20PXL_20260601_180934071.PORTRAIT-23062026092245433-1500px.jpg</foto>
       <foto orden="20">https://midcar.azureedge.net/vehiculos/0306203534086/(FILEminimizer)%20PXL_20260601_180938441.PORTRAIT-23062026092245470-1500px.jpg</foto>
-    </fotos>
-  </vehiculo>
-  <vehiculo>
-    <id>3105172907028</id>
-    <matricula>8039LHW</matricula>
-    <bastidor>VF3YDBNCU12N78352</bastidor>
-    <marca>Peugeot</marca>
-    <modelo>Boxer</modelo>
-    <version>Peugeot Boxer 2.2BlueHdi 3.5T L3 Heavy 140Cv Cabina IVA y garantía Etiqueta C</version>
-    <anio>2020</anio>
-    <mes_matriculacion>7</mes_matriculacion>
-    <km>156000</km>
-    <precio>18950</precio>
-    <precio_anterior>0</precio_anterior>
-    <iva_deducible>true</iva_deducible>
-    <combustible>Diesel</combustible>
-    <cambio>Manual</cambio>
-    <potencia_cv>140</potencia_cv>
-    <puertas>4</puertas>
-    <plazas>2</plazas>
-    <color>Blanco</color>
-    <etiqueta_dgt>C</etiqueta_dgt>
-    <garantia_meses>12</garantia_meses>
-    <cuota_mes>372</cuota_mes>
-    <meses_financiacion>72</meses_financiacion>
-    <reservado>false</reservado>
-    <concesionario>torrejon-de-ardoz</concesionario>
-    <url>https://www.midcar.net/peugeot-boxer-22bluehdi-35t-l3-heavy-140cv-cabina-iva-y-garantia-etiqueta-c-2020-3105172907028</url>
-    <equipamiento>
-      <item>Entrega inmediata</item>
-      <item>Vehículo nacional</item>
-      <item>Kilómetros certificados</item>
-      <item>Historial de mantenimiento</item>
-      <item>Vehículo revisado</item>
-      <item>Único propietario</item>
-      <item>Garantia 1 año</item>
-      <item>Informe CARFAX disponible</item>
-    </equipamiento>
-    <descripcion>PEUGEOT BOXER 2.2Bluehdi (E) 3.5T Heavy L3 BlueHDi 103kW (140CV) 6 Velocidades, Etiqueta medioambiental C, del 27/07/2020 con 156.000 kilómetros certificados por escrito con libro de revisiones al día.
-
-Equipamiento:
-
-
-- Airbag Pasajero
-- Aire Acondicionado
-- Asiento pasajero pleglable
-- Espejos Electricos
-- Faros Antiniebla
-- Modulo Iluminacion
-- Navegador
-- Pack
-- Blis
-- Asistente pre-colisión
-- Driver Alert
-- Elevalunas eléctricos
-- Control de crucero+limitador de velocidad+volante de cuero
-- Paquete control de crucero adaptativo
-- Rueda de repuesto convencional-
-- Esp
-- Indicador de marchas
-- Volante multifunción
-- Cierre centralizado con mando
-- Faros antiniebla
-- Control tracción
-
-Vehículo de un ÚNICO PROPIETARIO con PROCEDENCIA NACIONAL.
-
-Garantía mecánica de 12 meses e IVA incluido,
-
-Ofrecemos financiación del 100% sin entrada con tan solo última nómina.
-
-Tasamos su vehículo como parte de pago.
-
-Horario de Apertura: Lunes – Viernes: 9:00h a 14:00h – 15:30h a 20:30h
-
-Sábado Cerrado
-
-Domingo: 11:00h – 14:00h
-
-
-
-Si han visto algún error ROGAMOS nos avisen, Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.</descripcion>
-    <fotos>
-      <foto orden="1" principal="true">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C1-11062026115923623-1500px.jpg</foto>
-      <foto orden="2">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C2-11062026115923899-1500px.jpg</foto>
-      <foto orden="3">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C3-11062026115923988-1500px.jpg</foto>
-      <foto orden="4">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C4-11062026115924097-1500px.jpg</foto>
-      <foto orden="5">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C5-11062026115924174-1500px.jpg</foto>
-      <foto orden="6">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C6-11062026115924229-1500px.jpg</foto>
-      <foto orden="7">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C7-11062026115924290-1500px.jpg</foto>
-      <foto orden="8">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C8-11062026115924344-1500px.jpg</foto>
-      <foto orden="9">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C9-11062026115924393-1500px.jpg</foto>
-      <foto orden="10">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C10-11062026115924446-1500px.jpg</foto>
-      <foto orden="11">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C11-11062026115924499-1500px.jpg</foto>
-      <foto orden="12">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C12-11062026115924543-1500px.jpg</foto>
-      <foto orden="13">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C13-11062026115924600-1500px.jpg</foto>
-      <foto orden="14">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C14-11062026115924658-1500px.jpg</foto>
-      <foto orden="15">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C15-11062026115924722-1500px.jpg</foto>
-      <foto orden="16">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C16-11062026115924773-1500px.jpg</foto>
-      <foto orden="17">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C17-11062026115924828-1500px.jpg</foto>
-      <foto orden="18">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C18-11062026115924873-1500px.jpg</foto>
-      <foto orden="19">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C19-11062026115924933-1500px.jpg</foto>
-      <foto orden="20">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C20-11062026115925043-1500px.jpg</foto>
-      <foto orden="21">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C21-11062026115925148-1500px.jpg</foto>
-      <foto orden="22">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C23-11062026115925191-1500px.jpg</foto>
-      <foto orden="23">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C24-11062026115925232-1500px.jpg</foto>
-      <foto orden="24">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C25-11062026115925274-1500px.jpg</foto>
-      <foto orden="25">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C26-11062026115925321-1500px.jpg</foto>
-      <foto orden="26">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C27-11062026115925372-1500px.jpg</foto>
-      <foto orden="27">https://midcar.azureedge.net/vehiculos/3105172907028/Peugeot%20Boxer%202.2BlueHdi%203.5T%20L3%20Heavy%20140Cv%20Cabina%20IVA%20y%20garant%C3%ADa%20Etiqueta%20C28-11062026115925418-1500px.jpg</foto>
     </fotos>
   </vehiculo>
   <vehiculo>
