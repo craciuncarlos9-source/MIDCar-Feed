@@ -1,6 +1,6 @@
 {
  "actualizado": true,
- "total": 84,
+ "total": 82,
  "vehiculos": [
   {
    "id": "1011175920644",
@@ -32,37 +32,6 @@
    ],
    "url": "https://www.midcar.net/audi-a8-60-w12-quattro-tiptronic-450-cv-e28093-nacional-e28093-libro-de-mantenimiento-e28093-exclusivo-2009-1011175920644",
    "foto": "https://midcar.azureedge.net/vehiculos/1011175920644/AUDI%20A8%206.0%20W12%20QUATTRO%20TIPTRONIC%20DE%20450%20CV%20NACIONAL%20%20CON%20LIBRO%20DE%20MANTENIMIENTO1-10112026175920650-1500px.jpg"
-  },
-  {
-   "id": "3010161029320",
-   "vehiculo": "Ford Mondeo 2.0Tdci ST-Line AWD Powershift 190 Cv Etiqueta medioambiental C",
-   "marca": "Ford",
-   "modelo": "Mondeo",
-   "anio": 2019,
-   "km": 94000,
-   "precio_eur": 20950,
-   "cuota_mes_eur": 411,
-   "meses_financiacion": 72,
-   "combustible": "Diesel",
-   "cambio": "Automático",
-   "potencia_cv": 190,
-   "etiqueta_dgt": "C",
-   "plazas": 5,
-   "puertas": 5,
-   "color": "Gris",
-   "iva_deducible": false,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Entrega inmediata",
-    "Vehículo nacional",
-    "Kilómetros certificados",
-    "Historial de mantenimiento",
-    "Vehículo revisado",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/ford-mondeo-20tdci--st-line-awd-powershift-190-cv-etiqueta-medioambiental-c-2019-3010161029320",
-   "foto": "https://midcar.azureedge.net/vehiculos/3010161029320/(FILEminimizer)%20PXL_20261104_082048528.PORTRAIT-04112026105047500-1500px.jpg"
   },
   {
    "id": "1610113720131",
@@ -383,38 +352,6 @@
    ],
    "url": "https://www.midcar.net/peugeot-partner-l2-premium-etiqueta-c-iva-y-garantia-incl-long-2022-0110195320242",
    "foto": "https://midcar.azureedge.net/vehiculos/0110195320242/Peugeot%20Partner%20Premium%20L2%201.5BlueHdi%20100Cv%20IVA%20y%20Garant%C3%ADa%20Inc1%20Due%C3%B1o-01102026195320248-1500px.jpg"
-  },
-  {
-   "id": "2209163506294",
-   "vehiculo": "Citroen Berlingo Premium 1.5 BlueHDi 100Cv IVA y Garantía Incl Etiqueta C Nacional",
-   "marca": "Citroen",
-   "modelo": "Berlingo",
-   "anio": 2021,
-   "km": 45482,
-   "precio_eur": 13450,
-   "cuota_mes_eur": 264,
-   "meses_financiacion": 72,
-   "combustible": "Diesel",
-   "cambio": "Manual",
-   "potencia_cv": 100,
-   "etiqueta_dgt": "C",
-   "plazas": 2,
-   "puertas": 4,
-   "color": "Blanco",
-   "iva_deducible": true,
-   "garantia_meses": 12,
-   "equipamiento": [
-    "Entrega inmediata",
-    "Vehículo nacional",
-    "Kilómetros certificados",
-    "Historial de mantenimiento",
-    "Vehículo revisado",
-    "Único propietario",
-    "Garantia 1 año",
-    "Informe CARFAX disponible"
-   ],
-   "url": "https://www.midcar.net/citroen-berlingo-premium--15-bluehdi-100cv-iva-y-garantia-incl-etiqueta-c-nacional-2021-2209163506294",
-   "foto": "https://midcar.azureedge.net/vehiculos/2209163506294/01-22092026163506295-1500px.jpg"
   },
   {
    "id": "2109144719546",
